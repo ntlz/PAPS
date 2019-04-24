@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Subject Area Model" version="4">
+  <OBJECT>
+    <ID name="Subject Area Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
+    <PID name="проект_paps" mc="Standard.Package" uid="295a0933-3080-40f9-b4c7-e6caa9462628"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Subject Area Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Client" mc="Standard.Class" uid="8a78844b-94dc-4a3d-9131-aeddab9c9954"/>
+        <COMPID name="Bank card" mc="Standard.Class" uid="b934e1f9-0fa7-48c7-8db4-45d6b8e1c0e6"/>
+        <COMPID name="Delivery person" mc="Standard.Class" uid="62eff6c5-5123-4920-8e83-1e97911667c7"/>
+        <COMPID name="Order" mc="Standard.Class" uid="c0840b63-3ce7-4fd7-a6af-d1ec4c78b19d"/>
+        <COMPID name="Restaurant" mc="Standard.Class" uid="91791611-0483-4c93-b0d8-cce2dae6840f"/>
+        <COMPID name="Report" mc="Standard.Class" uid="8387dfc1-d952-4944-b850-e347875a6c6a"/>
+        <COMPID name="Administrator" mc="Standard.Class" uid="f2f65e49-1a58-462d-b85c-e6d33af7fea9"/>
+        <COMPID name="Receipt" mc="Standard.Class" uid="67cf53bd-248c-4e4d-844c-0f39e3ec785c"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Subject Area Model Class diagram" mc="Standard.ClassDiagram" uid="d27c6276-e4db-4de6-84fa-da5d4840fb12"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

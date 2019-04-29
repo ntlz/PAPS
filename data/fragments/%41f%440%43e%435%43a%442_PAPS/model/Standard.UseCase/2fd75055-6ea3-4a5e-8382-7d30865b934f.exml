@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Select order" version="4">
   <OBJECT>
     <ID name="Select order" mc="Standard.UseCase" uid="2fd75055-6ea3-4a5e-8382-7d30865b934f"/>
-    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <PID name="Delivery person" mc="Standard.Package" uid="044c32df-d6cf-48de-aae4-4d3ac972daba"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

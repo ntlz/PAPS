@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Administrator" version="4">
+  <OBJECT>
+    <ID name="Administrator" mc="Standard.Package" uid="48b8ea42-5bce-4fc8-a63d-be645e281964"/>
+    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Administrator]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Add restaurant" mc="Standard.UseCase" uid="abdca580-8b6a-41f9-9b65-7d8dc720ecd0"/>
+        <COMPID name="Get report" mc="Standard.UseCase" uid="c5190d95-182c-4fe2-8cfa-00948e51dacd"/>
+        <COMPID name="Register new administrator" mc="Standard.UseCase" uid="9f48054a-1c55-4878-83c1-efdbb7fcf0e0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

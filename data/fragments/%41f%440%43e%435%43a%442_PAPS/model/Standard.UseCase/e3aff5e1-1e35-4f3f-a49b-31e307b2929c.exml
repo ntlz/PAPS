@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Display dish information" version="4">
   <OBJECT>
     <ID name="Display dish information" mc="Standard.UseCase" uid="e3aff5e1-1e35-4f3f-a49b-31e307b2929c"/>
-    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <PID name="Client" mc="Standard.Package" uid="9013e3a5-aa1d-42e1-8d5a-4ab4f93b084b"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

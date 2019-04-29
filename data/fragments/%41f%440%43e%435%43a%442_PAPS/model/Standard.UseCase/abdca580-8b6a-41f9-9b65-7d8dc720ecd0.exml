@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Add restaurant" version="4">
   <OBJECT>
     <ID name="Add restaurant" mc="Standard.UseCase" uid="abdca580-8b6a-41f9-9b65-7d8dc720ecd0"/>
-    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <PID name="Administrator" mc="Standard.Package" uid="48b8ea42-5bce-4fc8-a63d-be645e281964"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

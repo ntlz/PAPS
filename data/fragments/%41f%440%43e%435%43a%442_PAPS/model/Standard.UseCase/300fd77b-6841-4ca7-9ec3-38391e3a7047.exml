@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Add dish to cart" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Display cart" version="4">
   <OBJECT>
-    <ID name="Add dish to cart" mc="Standard.UseCase" uid="b121c5f4-a548-44fb-805d-dd79af48bb9b"/>
+    <ID name="Display cart" mc="Standard.UseCase" uid="300fd77b-6841-4ca7-9ec3-38391e3a7047"/>
     <PID name="Client" mc="Standard.Package" uid="9013e3a5-aa1d-42e1-8d5a-4ab4f93b084b"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
@@ -9,13 +9,13 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Add dish to cart]]></ATT>
+      <ATT name="Name"><![CDATA[Display cart]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="Descriptor">
         <OBJECT>
-          <ID name="" mc="Infrastructure.Note" uid="b8e6d495-e9a7-47a7-9104-21adb3b184f5"/>
+          <ID name="" mc="Infrastructure.Note" uid="af11b470-aae4-43b1-a1d6-a35eaea596c9"/>
           <ATTRIBUTES>
             <ATT name="Content"><![CDATA[...]]></ATT>
             <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
@@ -29,7 +29,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="" mc="Infrastructure.Note" uid="ab948915-d213-46e1-95c1-7b2c6b251aea"/>
+          <ID name="" mc="Infrastructure.Note" uid="0614da7a-48e0-4e44-9a9c-2f4045bbcd82"/>
           <ATTRIBUTES>
             <ATT name="Content"><![CDATA[...]]></ATT>
             <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
@@ -43,7 +43,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="" mc="Infrastructure.Note" uid="1592922c-1a2a-4a19-8d8c-a52b60e83181"/>
+          <ID name="" mc="Infrastructure.Note" uid="54c1cfa7-d19c-4e48-905a-411635c2613f"/>
           <ATTRIBUTES>
             <ATT name="Content"><![CDATA[...]]></ATT>
             <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
@@ -57,7 +57,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="" mc="Infrastructure.Note" uid="34005bb9-0e76-4fe6-9666-b4291a5f8065"/>
+          <ID name="" mc="Infrastructure.Note" uid="2a3e485c-8b1f-48b0-a251-20bf19edfd17"/>
           <ATTRIBUTES>
             <ATT name="Content"><![CDATA[...]]></ATT>
             <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
@@ -71,7 +71,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="" mc="Infrastructure.Note" uid="dc354384-946a-4a8c-b491-3de96e35591d"/>
+          <ID name="" mc="Infrastructure.Note" uid="99d310ee-82a2-47a9-893b-93b93303fb9a"/>
           <ATTRIBUTES>
             <ATT name="Content"><![CDATA[...]]></ATT>
             <ATT name="MimeType"><![CDATA[text/plain]]></ATT>

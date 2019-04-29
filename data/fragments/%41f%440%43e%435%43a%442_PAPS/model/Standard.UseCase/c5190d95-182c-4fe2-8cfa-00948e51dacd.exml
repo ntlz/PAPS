@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Get report" version="4">
   <OBJECT>
     <ID name="Get report" mc="Standard.UseCase" uid="c5190d95-182c-4fe2-8cfa-00948e51dacd"/>
-    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <PID name="Administrator" mc="Standard.Package" uid="48b8ea42-5bce-4fc8-a63d-be645e281964"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

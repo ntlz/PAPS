@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Use Case Model" version="4">
   <OBJECT>
     <ID name="Use Case Model" mc="Standard.Package" uid="24234bc9-1a82-4ec3-951f-3cff0a5e01a9"/>
-    <PID name="проект_paps" mc="Standard.Package" uid="295a0933-3080-40f9-b4c7-e6caa9462628"/>
+    <PID name="AnalysisModel" mc="Standard.Package" uid="295a0933-3080-40f9-b4c7-e6caa9462628"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>

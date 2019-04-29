@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Receipt" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cart" version="4">
   <OBJECT>
-    <ID name="Receipt" mc="Standard.Class" uid="67cf53bd-248c-4e4d-844c-0f39e3ec785c"/>
-    <PID name="Subject Area Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
+    <ID name="Cart" mc="Standard.Class" uid="f046cd7a-b005-4c07-b88f-4247e1e94bd6"/>
+    <PID name="Domain Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
@@ -11,13 +11,16 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Receipt]]></ATT>
+      <ATT name="Name"><![CDATA[Cart]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedEnd">
         <REFOBJ>
-          <ID name="" mc="Standard.AssociationEnd" uid="709ec4ee-a169-490c-8b8b-042fe5b70e47"/>
+          <ID name="" mc="Standard.AssociationEnd" uid="3d2953e1-804b-487c-b204-24585fcb0044"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="10529a11-96b9-4b9d-8c0a-a49d3e9e2b28"/>
         </REFOBJ>
       </COMP>
     </DEPENDENCIES>

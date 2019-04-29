@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Administrator" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DishInfo" version="4">
   <OBJECT>
-    <ID name="Administrator" mc="Standard.Class" uid="f2f65e49-1a58-462d-b85c-e6d33af7fea9"/>
+    <ID name="DishInfo" mc="Standard.Class" uid="cba0aa6f-ecce-4a0f-961a-dc9a253288ba"/>
     <PID name="Domain Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,9 +11,15 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Administrator]]></ATT>
+      <ATT name="Name"><![CDATA[DishInfo]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES></DEPENDENCIES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedEnd">
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="ca8c5950-4e8a-4784-8d4b-f4e0e4763a22"/>
+        </REFOBJ>
+      </COMP>
+    </DEPENDENCIES>
   </OBJECT>
 </EXT>

@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Display restauratnt menu" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Display restaurant menu" version="4">
   <OBJECT>
-    <ID name="Display restauratnt menu" mc="Standard.UseCase" uid="1277b9a0-3ad4-42e7-a0d0-86ef256087c7"/>
-    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <ID name="Display restaurant menu" mc="Standard.UseCase" uid="1277b9a0-3ad4-42e7-a0d0-86ef256087c7"/>
+    <PID name="Client" mc="Standard.Package" uid="9013e3a5-aa1d-42e1-8d5a-4ab4f93b084b"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Display restauratnt menu]]></ATT>
+      <ATT name="Name"><![CDATA[Display restaurant menu]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Report" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Transaction" version="4">
   <OBJECT>
-    <ID name="Report" mc="Standard.Class" uid="8387dfc1-d952-4944-b850-e347875a6c6a"/>
-    <PID name="Subject Area Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
+    <ID name="Transaction" mc="Standard.Class" uid="7e8c9231-5156-420b-b598-92f253a5ad83"/>
+    <PID name="Domain Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
@@ -11,22 +11,13 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Report]]></ATT>
+      <ATT name="Name"><![CDATA[Transaction]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedEnd">
-        <REFOBJ>
-          <ID name="" mc="Standard.AssociationEnd" uid="587b0f33-5a59-4743-8f13-215a50cea5be"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="" mc="Standard.AssociationEnd" uid="914fa0cb-145d-459b-8fc3-65699e925afe"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="" mc="Standard.AssociationEnd" uid="1d82462f-80bd-4027-adbb-c88354188410"/>
-        </REFOBJ>
         <OBJECT>
-          <ID name="" mc="Standard.AssociationEnd" uid="b02d7683-8b46-4e7d-b4ce-bc48c4824271"/>
+          <ID name="" mc="Standard.AssociationEnd" uid="8a3ec055-5839-4069-9a34-18833fd28f7f"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsAssociation</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -45,7 +36,7 @@
           <DEPENDENCIES>
             <COMP relation="Opposite">
               <OBJECT>
-                <ID name="" mc="Standard.AssociationEnd" uid="61c30b7f-a4d0-490a-be11-c4a33718bd0d"/>
+                <ID name="" mc="Standard.AssociationEnd" uid="56515148-eb72-4989-86ea-977ce9462dc7"/>
                 <ATTRIBUTES>
                   <ATT name="Aggregation">KindIsAssociation</ATT>
                   <ATT name="IsChangeable">true</ATT>
@@ -54,7 +45,7 @@
                   <ATT name="IsOrdered">false</ATT>
                   <ATT name="IsUnique">false</ATT>
                   <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
-                  <ATT name="MultiplicityMax"><![CDATA[*]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
                   <ATT name="Visibility">Public</ATT>
                   <ATT name="IsClass">false</ATT>
                   <ATT name="IsAbstract">false</ATT>
@@ -63,11 +54,11 @@
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <COMP relation="Opposite">
-                    <COMPID name="" mc="Standard.AssociationEnd" uid="b02d7683-8b46-4e7d-b4ce-bc48c4824271"/>
+                    <COMPID name="" mc="Standard.AssociationEnd" uid="8a3ec055-5839-4069-9a34-18833fd28f7f"/>
                   </COMP>
                   <COMP relation="Association">
                     <OBJECT>
-                      <ID name="" mc="Standard.Association" uid="6afcdc69-f8ee-4f9e-bc44-00abc5358896"/>
+                      <ID name="" mc="Standard.Association" uid="5bd9ec6f-16ea-4b1a-895e-1a03d05aa113"/>
                       <ATTRIBUTES>
                         <ATT name="Name"></ATT>
                         <ATT name="status">1970354901745664</ATT>
@@ -79,10 +70,13 @@
               </OBJECT>
             </COMP>
             <COMP relation="Association">
-              <COMPID name="" mc="Standard.Association" uid="6afcdc69-f8ee-4f9e-bc44-00abc5358896"/>
+              <COMPID name="" mc="Standard.Association" uid="5bd9ec6f-16ea-4b1a-895e-1a03d05aa113"/>
             </COMP>
           </DEPENDENCIES>
         </OBJECT>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="15702c9c-e966-47b1-b7af-77b0e9524834"/>
+        </REFOBJ>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

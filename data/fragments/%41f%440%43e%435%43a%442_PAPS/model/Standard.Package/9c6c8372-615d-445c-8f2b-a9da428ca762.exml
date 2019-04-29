@@ -15,19 +15,9 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Enter System" mc="Standard.UseCase" uid="5d527672-0caf-4175-9048-79ad889b0d1f"/>
-        <COMPID name="Enter delivery address" mc="Standard.UseCase" uid="463d80ec-eb30-47a3-b7df-8ce3cdc5b996"/>
-        <COMPID name="Display restaurant list" mc="Standard.UseCase" uid="d4e03247-2db2-4b63-8585-19a5016fd13e"/>
-        <COMPID name="Display restauratnt menu" mc="Standard.UseCase" uid="1277b9a0-3ad4-42e7-a0d0-86ef256087c7"/>
-        <COMPID name="Display dish information" mc="Standard.UseCase" uid="e3aff5e1-1e35-4f3f-a49b-31e307b2929c"/>
-        <COMPID name="Add dish to cart" mc="Standard.UseCase" uid="b121c5f4-a548-44fb-805d-dd79af48bb9b"/>
-        <COMPID name="Submit order" mc="Standard.UseCase" uid="548da138-6bc1-443a-a9f3-950092938768"/>
-        <COMPID name="Pay for order" mc="Standard.UseCase" uid="75359660-9da4-4f1b-88c6-e0d6eac8999f"/>
-        <COMPID name="Add restaurant" mc="Standard.UseCase" uid="abdca580-8b6a-41f9-9b65-7d8dc720ecd0"/>
-        <COMPID name="Get report" mc="Standard.UseCase" uid="c5190d95-182c-4fe2-8cfa-00948e51dacd"/>
-        <COMPID name="Display list of orders" mc="Standard.UseCase" uid="981dc782-d8b9-4b76-a7f2-1ac8a3512b24"/>
-        <COMPID name="Select order" mc="Standard.UseCase" uid="2fd75055-6ea3-4a5e-8382-7d30865b934f"/>
-        <COMPID name="Confirm order delivery" mc="Standard.UseCase" uid="892bab01-08f4-4829-bb2f-fa70e94b6dcf"/>
-        <COMPID name="Display order history" mc="Standard.UseCase" uid="4ef0ac49-0385-4c6e-b2e9-0c9fe7eae29c"/>
+        <COMPID name="Client" mc="Standard.Package" uid="9013e3a5-aa1d-42e1-8d5a-4ab4f93b084b"/>
+        <COMPID name="Delivery person" mc="Standard.Package" uid="044c32df-d6cf-48de-aae4-4d3ac972daba"/>
+        <COMPID name="Administrator" mc="Standard.Package" uid="48b8ea42-5bce-4fc8-a63d-be645e281964"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

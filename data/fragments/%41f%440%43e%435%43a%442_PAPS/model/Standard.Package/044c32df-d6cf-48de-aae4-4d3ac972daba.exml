@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Delivery person" version="4">
+  <OBJECT>
+    <ID name="Delivery person" mc="Standard.Package" uid="044c32df-d6cf-48de-aae4-4d3ac972daba"/>
+    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Delivery person]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Display list of orders" mc="Standard.UseCase" uid="981dc782-d8b9-4b76-a7f2-1ac8a3512b24"/>
+        <COMPID name="Select order" mc="Standard.UseCase" uid="2fd75055-6ea3-4a5e-8382-7d30865b934f"/>
+        <COMPID name="Confirm order delivery" mc="Standard.UseCase" uid="892bab01-08f4-4829-bb2f-fa70e94b6dcf"/>
+        <COMPID name="Register new delivery person" mc="Standard.UseCase" uid="93229798-7873-4819-8c10-dde4514dc779"/>
+        <COMPID name="Display order history (delivery person)" mc="Standard.UseCase" uid="65717ccd-c87f-4592-8fa1-f2e24df05d9a"/>
+        <COMPID name="Display history order details (delivery person)" mc="Standard.UseCase" uid="2844ef33-181d-4713-b1b3-0ff97954b73b"/>
+        <COMPID name="Display profile (delivery person)" mc="Standard.UseCase" uid="d341eba2-a09b-45b9-a87f-eb87ce0a86bc"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

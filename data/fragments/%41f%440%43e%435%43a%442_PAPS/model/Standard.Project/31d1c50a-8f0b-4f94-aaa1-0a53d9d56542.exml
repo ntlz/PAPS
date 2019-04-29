@@ -10,7 +10,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="Model">
-        <COMPID name="проект_paps" mc="Standard.Package" uid="295a0933-3080-40f9-b4c7-e6caa9462628"/>
+        <COMPID name="AnalysisModel" mc="Standard.Package" uid="295a0933-3080-40f9-b4c7-e6caa9462628"/>
       </COMP>
       <COMP relation="DiagramRoot">
         <COMPID name="Проект_PAPS" mc="Infrastructure.DiagramSet" uid="22b6caa4-735a-4dd7-8f30-d5c2ca5d0660"/>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Client" version="4">
+  <OBJECT>
+    <ID name="Client" mc="Standard.Package" uid="9013e3a5-aa1d-42e1-8d5a-4ab4f93b084b"/>
+    <PID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Client]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Add dish to cart" mc="Standard.UseCase" uid="b121c5f4-a548-44fb-805d-dd79af48bb9b"/>
+        <COMPID name="Display restaurant menu" mc="Standard.UseCase" uid="1277b9a0-3ad4-42e7-a0d0-86ef256087c7"/>
+        <COMPID name="Filter dish list" mc="Standard.UseCase" uid="07c89151-1dc1-486a-abdd-33469722db36"/>
+        <COMPID name="Search dish" mc="Standard.UseCase" uid="c566bc40-be6e-4b6c-82a5-782284b1d62b"/>
+        <COMPID name="Display favorite dishes" mc="Standard.UseCase" uid="92097802-f0e5-4f02-9d33-d80bf739c5c2"/>
+        <COMPID name="Display profile (client)" mc="Standard.UseCase" uid="5f94b51e-3159-489f-8bf0-f06eac270695"/>
+        <COMPID name="Display dish information" mc="Standard.UseCase" uid="e3aff5e1-1e35-4f3f-a49b-31e307b2929c"/>
+        <COMPID name="Rate delivery" mc="Standard.UseCase" uid="28c3c1dd-391a-43f0-b4e1-0dda4db52668"/>
+        <COMPID name="Display restaurant list" mc="Standard.UseCase" uid="d4e03247-2db2-4b63-8585-19a5016fd13e"/>
+        <COMPID name="Display history order details (client)" mc="Standard.UseCase" uid="605d4564-5865-4797-890b-033bed7beb44"/>
+        <COMPID name="Search restaurant" mc="Standard.UseCase" uid="ae3772db-4588-4323-b70c-da5cb08d8ed0"/>
+        <COMPID name="Pay for order" mc="Standard.UseCase" uid="75359660-9da4-4f1b-88c6-e0d6eac8999f"/>
+        <COMPID name="Filter restaurant list" mc="Standard.UseCase" uid="3d8c222b-ffff-4d8f-80cf-e4d9d43881a9"/>
+        <COMPID name="Register new client" mc="Standard.UseCase" uid="37113bbf-1c70-430b-8b76-7d9fa6ab899f"/>
+        <COMPID name="Add  favorite dish" mc="Standard.UseCase" uid="fcd25109-c3e6-4be6-975e-498083e26185"/>
+        <COMPID name="Form order" mc="Standard.UseCase" uid="548da138-6bc1-443a-a9f3-950092938768"/>
+        <COMPID name="Display cart" mc="Standard.UseCase" uid="300fd77b-6841-4ca7-9ec3-38391e3a7047"/>
+        <COMPID name="Display order history (client)" mc="Standard.UseCase" uid="4ef0ac49-0385-4c6e-b2e9-0c9fe7eae29c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

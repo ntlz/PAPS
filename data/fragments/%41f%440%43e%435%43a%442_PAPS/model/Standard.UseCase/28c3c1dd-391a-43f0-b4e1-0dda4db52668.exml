@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rate delivery" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rate order" version="4">
   <OBJECT>
-    <ID name="Rate delivery" mc="Standard.UseCase" uid="28c3c1dd-391a-43f0-b4e1-0dda4db52668"/>
+    <ID name="Rate order" mc="Standard.UseCase" uid="28c3c1dd-391a-43f0-b4e1-0dda4db52668"/>
     <PID name="Client" mc="Standard.Package" uid="9013e3a5-aa1d-42e1-8d5a-4ab4f93b084b"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
@@ -9,7 +9,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Rate delivery]]></ATT>
+      <ATT name="Name"><![CDATA[Rate order]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MenuController" version="4">
+  <OBJECT>
+    <ID name="MenuController" mc="Standard.Class" uid="322e03b3-5790-49b9-95a0-e13bee92d5b4"/>
+    <PID name="Controllers" mc="Standard.Package" uid="77bc5c7c-e02f-4e8e-a58e-244dce549eee"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[MenuController]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="control" mc="Infrastructure.Stereotype" uid="965c7ec7-9fdb-47ba-bf12-765d1f1be09a"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

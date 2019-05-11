@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CartController" version="4">
+  <OBJECT>
+    <ID name="CartController" mc="Standard.Class" uid="30d230fb-517b-4e7f-97eb-8a87b8044afa"/>
+    <PID name="Controllers" mc="Standard.Package" uid="77bc5c7c-e02f-4e8e-a58e-244dce549eee"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CartController]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="control" mc="Infrastructure.Stereotype" uid="965c7ec7-9fdb-47ba-bf12-765d1f1be09a"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

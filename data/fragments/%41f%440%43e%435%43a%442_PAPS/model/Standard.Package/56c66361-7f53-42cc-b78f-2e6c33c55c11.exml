@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Entities" version="4">
+  <OBJECT>
+    <ID name="Entities" mc="Standard.Package" uid="56c66361-7f53-42cc-b78f-2e6c33c55c11"/>
+    <PID name="Analysis Classes" mc="Standard.Package" uid="d1d087e2-5294-46f3-8998-5a223c4fd972"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="BankAPI" mc="Standard.Class" uid="0b49acfa-7347-405a-b038-217743c3e2bc"/>
+        <COMPID name="Cart" mc="Standard.Class" uid="d32acba4-3414-4bc8-9e68-3491ee67859b"/>
+        <COMPID name="CartValidator" mc="Standard.Class" uid="88b97597-17eb-49a8-8c3c-fe99500134de"/>
+        <COMPID name="DB" mc="Standard.Class" uid="b638793d-29d4-4f90-a6d5-9da3762c179e"/>
+        <COMPID name="DishService" mc="Standard.Class" uid="19857750-c3f9-44eb-b91e-b1c4716de812"/>
+        <COMPID name="MenuService" mc="Standard.Class" uid="b7deb45d-741b-4f97-bf3e-4c1329143bf9"/>
+        <COMPID name="MenuSetting" mc="Standard.Class" uid="d58f7c8c-fb29-4cca-b36a-e1d17e22d086"/>
+        <COMPID name="OrderCalculator" mc="Standard.Class" uid="d72a09a6-7b80-4abd-acc7-84bbad2f1068"/>
+        <COMPID name="OrderSender" mc="Standard.Class" uid="e8b4b6c4-7327-417e-8664-b3f651114c92"/>
+        <COMPID name="OrderValidator" mc="Standard.Class" uid="09607fc4-7f16-4bfa-8f9d-0e224c49bec2"/>
+        <COMPID name="Persistence" mc="Standard.Package" uid="282039bc-337c-47ca-bdcc-1e5d453b2677"/>
+        <COMPID name="TransactionCreator" mc="Standard.Class" uid="926833d9-5dcd-4c20-a1d3-9046ad33a130"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="entity" mc="Infrastructure.Stereotype" uid="327e0405-0e19-4119-930c-7f04f775f222"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -7,6 +7,17 @@
       <ATT name="Name"><![CDATA[LocalProfile]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES></DEPENDENCIES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="boundary" mc="Infrastructure.Stereotype" uid="50299764-9849-48b3-8e39-95a4cd2acf0c"/>
+        <COMPID name="control" mc="Infrastructure.Stereotype" uid="a1ed15b2-ba85-4ff4-8259-84840c315401"/>
+        <COMPID name="entity" mc="Infrastructure.Stereotype" uid="327e0405-0e19-4119-930c-7f04f775f222"/>
+        <COMPID name="boundary" mc="Infrastructure.Stereotype" uid="59401582-9efd-40ce-92d6-85cc66f98a31"/>
+        <COMPID name="control" mc="Infrastructure.Stereotype" uid="965c7ec7-9fdb-47ba-bf12-765d1f1be09a"/>
+        <COMPID name="persistence" mc="Infrastructure.Stereotype" uid="60665730-03f2-4019-b7a5-e65cab7b53d6"/>
+        <COMPID name="entity" mc="Infrastructure.Stereotype" uid="1fd773d8-d38b-4425-9ca3-3b7bb3355e24"/>
+        <COMPID name="persistence" mc="Infrastructure.Stereotype" uid="0ff7399b-551d-4565-a89e-7724ea1a67c1"/>
+      </COMP>
+    </DEPENDENCIES>
   </OBJECT>
 </EXT>

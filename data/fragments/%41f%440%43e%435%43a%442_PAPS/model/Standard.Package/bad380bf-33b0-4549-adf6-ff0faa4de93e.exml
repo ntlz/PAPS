@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Class Model" version="4">
+  <OBJECT>
+    <ID name="Class Model" mc="Standard.Package" uid="bad380bf-33b0-4549-adf6-ff0faa4de93e"/>
+    <PID name="Проект_PAPS" mc="Standard.Project" uid="31d1c50a-8f0b-4f94-aaa1-0a53d9d56542"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Class Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Analysis Model" mc="Standard.Package" uid="4a752dc9-ec58-48b7-8de2-0e61851ea785"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Domain Model" version="4">
   <OBJECT>
     <ID name="Domain Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
-    <PID name="Analysis Model" mc="Standard.Package" uid="295a0933-3080-40f9-b4c7-e6caa9462628"/>
+    <PID name="Проект_PAPS" mc="Standard.Project" uid="31d1c50a-8f0b-4f94-aaa1-0a53d9d56542"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>

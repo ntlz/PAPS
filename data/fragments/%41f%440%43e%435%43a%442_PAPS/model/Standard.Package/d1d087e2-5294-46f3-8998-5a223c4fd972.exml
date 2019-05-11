@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Analysis Classes" version="4">
+  <OBJECT>
+    <ID name="Analysis Classes" mc="Standard.Package" uid="d1d087e2-5294-46f3-8998-5a223c4fd972"/>
+    <PID name="Analysis Model" mc="Standard.Package" uid="4a752dc9-ec58-48b7-8de2-0e61851ea785"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Analysis Classes]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Boundaries" mc="Standard.Package" uid="a4399c30-44f0-4027-88f3-1397de182f22"/>
+        <COMPID name="Controllers" mc="Standard.Package" uid="77bc5c7c-e02f-4e8e-a58e-244dce549eee"/>
+        <COMPID name="Entities" mc="Standard.Package" uid="56c66361-7f53-42cc-b78f-2e6c33c55c11"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

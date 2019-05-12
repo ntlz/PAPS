@@ -17,6 +17,7 @@
         <COMPID name="AuthUI" mc="Standard.Class" uid="6f5f80c6-351d-4ebe-9a54-7f6bd4aaddaf"/>
         <COMPID name="ClientUI" mc="Standard.Class" uid="c365bcbf-770d-4378-83f7-8a7931f57d17"/>
         <COMPID name="DeliveryPersonUI" mc="Standard.Class" uid="646e8129-a9e0-4e7a-9963-89b887a5bf0b"/>
+        <COMPID name="DbApi" mc="Standard.Class" uid="b638793d-29d4-4f90-a6d5-9da3762c179e"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="boundary" mc="Infrastructure.Stereotype" uid="50299764-9849-48b3-8e39-95a4cd2acf0c"/>

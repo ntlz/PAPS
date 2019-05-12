@@ -17,7 +17,6 @@
         <COMPID name="BankAPI" mc="Standard.Class" uid="0b49acfa-7347-405a-b038-217743c3e2bc"/>
         <COMPID name="Cart" mc="Standard.Class" uid="d32acba4-3414-4bc8-9e68-3491ee67859b"/>
         <COMPID name="CartValidator" mc="Standard.Class" uid="88b97597-17eb-49a8-8c3c-fe99500134de"/>
-        <COMPID name="DB" mc="Standard.Class" uid="b638793d-29d4-4f90-a6d5-9da3762c179e"/>
         <COMPID name="DishService" mc="Standard.Class" uid="19857750-c3f9-44eb-b91e-b1c4716de812"/>
         <COMPID name="MenuService" mc="Standard.Class" uid="b7deb45d-741b-4f97-bf3e-4c1329143bf9"/>
         <COMPID name="MenuPreferences" mc="Standard.Class" uid="d58f7c8c-fb29-4cca-b36a-e1d17e22d086"/>

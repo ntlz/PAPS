@@ -20,7 +20,7 @@
         <COMPID name="DB" mc="Standard.Class" uid="b638793d-29d4-4f90-a6d5-9da3762c179e"/>
         <COMPID name="DishService" mc="Standard.Class" uid="19857750-c3f9-44eb-b91e-b1c4716de812"/>
         <COMPID name="MenuService" mc="Standard.Class" uid="b7deb45d-741b-4f97-bf3e-4c1329143bf9"/>
-        <COMPID name="MenuSetting" mc="Standard.Class" uid="d58f7c8c-fb29-4cca-b36a-e1d17e22d086"/>
+        <COMPID name="MenuPreferences" mc="Standard.Class" uid="d58f7c8c-fb29-4cca-b36a-e1d17e22d086"/>
         <COMPID name="OrderCalculator" mc="Standard.Class" uid="d72a09a6-7b80-4abd-acc7-84bbad2f1068"/>
         <COMPID name="OrderSender" mc="Standard.Class" uid="e8b4b6c4-7327-417e-8664-b3f651114c92"/>
         <COMPID name="OrderValidator" mc="Standard.Class" uid="09607fc4-7f16-4bfa-8f9d-0e224c49bec2"/>

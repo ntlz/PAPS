@@ -49,23 +49,6 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="Display Restaurant Menu A-2 Realization" mc="Standard.Collaboration" uid="be2abe93-d54a-447f-95ea-725d04a56214"/>
-          <ATTRIBUTES>
-            <ATT name="IsConcurrent">false</ATT>
-            <ATT name="IsAbstract">false</ATT>
-            <ATT name="IsLeaf">false</ATT>
-            <ATT name="IsRoot">false</ATT>
-            <ATT name="Visibility">Public</ATT>
-            <ATT name="Name"><![CDATA[Display Restaurant Menu A-2 Realization]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <COMP relation="OwnedBehavior">
-              <COMPID name="Interaction" mc="Standard.Interaction" uid="7970ba36-9eea-4150-983e-ff993316c123"/>
-            </COMP>
-          </DEPENDENCIES>
-        </OBJECT>
-        <OBJECT>
           <ID name="Display Restaurant Menu A-3-2 Realization" mc="Standard.Collaboration" uid="16a646e6-741e-4b23-ab14-420c891ae2dd"/>
           <ATTRIBUTES>
             <ATT name="IsConcurrent">false</ATT>
@@ -96,6 +79,23 @@
           <DEPENDENCIES>
             <COMP relation="OwnedBehavior">
               <COMPID name="Interaction" mc="Standard.Interaction" uid="a48cd9fd-0081-48aa-a181-a25419a7a341"/>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="Display Restaurant Menu A-3-2 Realization" mc="Standard.Collaboration" uid="fc1adcaf-f178-43ea-a42c-34aa7cd186a3"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Display Restaurant Menu A-3-2 Realization]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedBehavior">
+              <COMPID name="Interaction" mc="Standard.Interaction" uid="a3a347e9-868b-4679-8eec-0895449fb958"/>
             </COMP>
           </DEPENDENCIES>
         </OBJECT>

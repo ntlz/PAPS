@@ -33,7 +33,7 @@
       </COMP>
       <COMP relation="OwnedEnd">
         <OBJECT>
-          <ID name="" mc="Standard.AssociationEnd" uid="c34996c1-c63e-4b01-ad59-748a1b062e14"/>
+          <ID name="" mc="Standard.AssociationEnd" uid="45d933ea-c229-445a-901a-1153e1ec973a"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsAssociation</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -54,14 +54,42 @@
               <ID name="Cart" mc="Standard.Class" uid="d32acba4-3414-4bc8-9e68-3491ee67859b"/>
             </LINK>
             <COMP relation="Opposite">
-              <REFOBJ>
-                <ID name="" mc="Standard.AssociationEnd" uid="43463065-2b26-4f6e-a4f4-89fd574c94ac"/>
-              </REFOBJ>
+              <OBJECT>
+                <ID name="" mc="Standard.AssociationEnd" uid="98c00ef9-56b7-46c5-bdec-29792130587f"/>
+                <ATTRIBUTES>
+                  <ATT name="Aggregation">KindIsAssociation</ATT>
+                  <ATT name="IsChangeable">true</ATT>
+                  <ATT name="Changeable">ReadWrite</ATT>
+                  <ATT name="IsDerived">false</ATT>
+                  <ATT name="IsOrdered">false</ATT>
+                  <ATT name="IsUnique">false</ATT>
+                  <ATT name="MultiplicityMin"></ATT>
+                  <ATT name="MultiplicityMax"></ATT>
+                  <ATT name="Visibility">Private</ATT>
+                  <ATT name="IsClass">false</ATT>
+                  <ATT name="IsAbstract">false</ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES>
+                  <COMP relation="Opposite">
+                    <COMPID name="" mc="Standard.AssociationEnd" uid="45d933ea-c229-445a-901a-1153e1ec973a"/>
+                  </COMP>
+                  <COMP relation="Association">
+                    <OBJECT>
+                      <ID name="" mc="Standard.Association" uid="06d4f818-8aa8-4e75-87c3-3aa2bd9ac1e3"/>
+                      <ATTRIBUTES>
+                        <ATT name="Name"></ATT>
+                        <ATT name="status">1970354901745664</ATT>
+                      </ATTRIBUTES>
+                      <DEPENDENCIES></DEPENDENCIES>
+                    </OBJECT>
+                  </COMP>
+                </DEPENDENCIES>
+              </OBJECT>
             </COMP>
             <COMP relation="Association">
-              <REFOBJ>
-                <ID name="" mc="Standard.Association" uid="ab2a2f57-0e67-437f-88d3-df366101d54e"/>
-              </REFOBJ>
+              <COMPID name="" mc="Standard.Association" uid="06d4f818-8aa8-4e75-87c3-3aa2bd9ac1e3"/>
             </COMP>
           </DEPENDENCIES>
         </OBJECT>

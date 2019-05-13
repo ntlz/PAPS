@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Interaction" version="4">
   <OBJECT>
     <ID name="Interaction" mc="Standard.Interaction" uid="e2ba648a-aba6-4683-b257-9ca69c43c8af"/>
-    <PID name="Display Restaurant Menu Realization" mc="Standard.Package" uid="7f8e5ec0-a672-458d-a435-3bfbfc6ad477"/>
+    <PID name="Display Restaurant Menu" mc="Standard.Package" uid="7f8e5ec0-a672-458d-a435-3bfbfc6ad477"/>
     <ATTRIBUTES>
       <ATT name="IsReentrant">false</ATT>
       <ATT name="Name"><![CDATA[Interaction]]></ATT>
@@ -1163,7 +1163,7 @@
               <OBJECT>
                 <ID name="" mc="Standard.InteractionOperand" uid="9ee201cd-ddf6-4820-91a6-2d6fbbf2603e"/>
                 <ATTRIBUTES>
-                  <ATT name="Guard"></ATT>
+                  <ATT name="Guard"><![CDATA[while not done]]></ATT>
                   <ATT name="EndLineNumber">710</ATT>
                   <ATT name="LineNumber">364</ATT>
                   <ATT name="Name"></ATT>

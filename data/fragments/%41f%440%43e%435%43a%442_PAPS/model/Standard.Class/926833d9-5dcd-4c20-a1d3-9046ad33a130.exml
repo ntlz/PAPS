@@ -15,6 +15,27 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedOperation">
+        <OBJECT>
+          <ID name="//createTransaction" mc="Standard.Operation" uid="38b554dd-c613-461e-b754-525b35bd9782"/>
+          <ATTRIBUTES>
+            <ATT name="Concurrency">false</ATT>
+            <ATT name="Final">false</ATT>
+            <ATT name="Passing">MethodOut</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[//createTransaction]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedEnd">
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="9da47f08-366f-49f2-b256-09ce1c3c6beb"/>
+        </REFOBJ>
+      </COMP>
       <LINK relation="Extension">
         <ID name="entity" mc="Infrastructure.Stereotype" uid="1fd773d8-d38b-4425-9ca3-3b7bb3355e24"/>
       </LINK>

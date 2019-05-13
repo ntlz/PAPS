@@ -17,7 +17,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedOperation">
         <OBJECT>
-          <ID name="//getDishesSortedByPreferences" mc="Standard.Operation" uid="e7269fc2-b9ad-408d-ad32-a41e1e6cd0f3"/>
+          <ID name="//getDishes" mc="Standard.Operation" uid="983c0327-4514-4d86-873e-484c55914229"/>
           <ATTRIBUTES>
             <ATT name="Concurrency">false</ATT>
             <ATT name="Final">false</ATT>
@@ -25,13 +25,13 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[//getDishesSortedByPreferences]]></ATT>
+            <ATT name="Name"><![CDATA[//getDishes]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
             <COMP relation="IO">
               <OBJECT>
-                <ID name="preferences" mc="Standard.Parameter" uid="bdd1e873-207f-4527-95fa-673e5e8095a1"/>
+                <ID name="restaurant" mc="Standard.Parameter" uid="11f94234-38e1-422a-aacd-8e78e6cb6e28"/>
                 <ATTRIBUTES>
                   <ATT name="ParameterPassing">In</ATT>
                   <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
@@ -43,19 +43,19 @@
                   <ATT name="IsException">false</ATT>
                   <ATT name="IsStream">false</ATT>
                   <ATT name="Effect">ReadEffect</ATT>
-                  <ATT name="Name"><![CDATA[preferences]]></ATT>
+                  <ATT name="Name"><![CDATA[restaurant]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <LINK relation="Type">
-                    <ID name="MenuPreferences" mc="Standard.Class" uid="d58f7c8c-fb29-4cca-b36a-e1d17e22d086"/>
+                    <ID name="Restaurant" mc="Standard.Class" uid="91791611-0483-4c93-b0d8-cce2dae6840f"/>
                   </LINK>
                 </DEPENDENCIES>
               </OBJECT>
             </COMP>
             <COMP relation="Return">
               <OBJECT>
-                <ID name="p2" mc="Standard.Parameter" uid="6b83b388-279d-47f5-ac0e-4bcc2bd20795"/>
+                <ID name="p2" mc="Standard.Parameter" uid="a68d51cf-69d9-40b2-9586-3b8245f13773"/>
                 <ATTRIBUTES>
                   <ATT name="ParameterPassing">In</ATT>
                   <ATT name="MultiplicityMin"><![CDATA[0]]></ATT>

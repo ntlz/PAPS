@@ -16,6 +16,7 @@
       <COMP relation="OwnedElement">
         <COMPID name="Display Restaurant Menu Realization" mc="Standard.Package" uid="7f8e5ec0-a672-458d-a435-3bfbfc6ad477"/>
         <COMPID name="Form Order" mc="Standard.Package" uid="b3f6ac80-149e-4709-a087-542201e5711e"/>
+        <COMPID name="Add to Cart" mc="Standard.Package" uid="ac29d693-935a-4434-8e4b-e04b7c260e4f"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

@@ -25,6 +25,7 @@
         <COMPID name="OrderValidator" mc="Standard.Class" uid="09607fc4-7f16-4bfa-8f9d-0e224c49bec2"/>
         <COMPID name="Persistence" mc="Standard.Package" uid="282039bc-337c-47ca-bdcc-1e5d453b2677"/>
         <COMPID name="TransactionCreator" mc="Standard.Class" uid="926833d9-5dcd-4c20-a1d3-9046ad33a130"/>
+        <COMPID name="DB" mc="Standard.Class" uid="b638793d-29d4-4f90-a6d5-9da3762c179e"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="entity" mc="Infrastructure.Stereotype" uid="327e0405-0e19-4119-930c-7f04f775f222"/>

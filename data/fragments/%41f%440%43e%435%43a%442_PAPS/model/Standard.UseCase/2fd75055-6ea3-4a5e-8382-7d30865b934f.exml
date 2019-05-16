@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Select order" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Select order for delivery" version="4">
   <OBJECT>
-    <ID name="Select order" mc="Standard.UseCase" uid="2fd75055-6ea3-4a5e-8382-7d30865b934f"/>
+    <ID name="Select order for delivery" mc="Standard.UseCase" uid="2fd75055-6ea3-4a5e-8382-7d30865b934f"/>
     <PID name="Delivery person" mc="Standard.Package" uid="044c32df-d6cf-48de-aae4-4d3ac972daba"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
@@ -9,7 +9,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Select order]]></ATT>
+      <ATT name="Name"><![CDATA[Select order for delivery]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

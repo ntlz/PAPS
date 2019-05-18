@@ -15,6 +15,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Analysis Model" mc="Standard.Package" uid="4a752dc9-ec58-48b7-8de2-0e61851ea785"/>
+        <COMPID name="Design Model" mc="Standard.Package" uid="e5523db2-7f3d-4b73-aa37-22ddd3916bd9"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

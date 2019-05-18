@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Service" version="4">
+  <OBJECT>
+    <ID name="Service" mc="Standard.Package" uid="2d0636dd-753e-4ac9-af29-92636db5b50e"/>
+    <PID name="Design Model" mc="Standard.Package" uid="e5523db2-7f3d-4b73-aa37-22ddd3916bd9"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Service]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="DishService" mc="Standard.Class" uid="7ca59c8a-560c-4a49-9778-2ec0595715e5"/>
+        <COMPID name="MenuService" mc="Standard.Class" uid="03af3a1a-9300-4dbf-9dbf-8a4728c1cd98"/>
+        <COMPID name="RestaurantService" mc="Standard.Class" uid="a5f85eba-1ef9-4784-b544-bddc54ca6085"/>
+        <COMPID name="TransactionService" mc="Standard.Class" uid="63ae94d9-eed9-4398-9ddd-eff2488ee638"/>
+        <COMPID name="OrderService" mc="Standard.Class" uid="e274ca4d-7723-4519-826f-988b150edbd1"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="layer" mc="Infrastructure.Stereotype" uid="5af8d352-160e-43d0-a59f-731f2f5060ba"/>
+      </LINK>
+      <COMP relation="DependsOnDependency">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="ba205e32-3f0e-4f3b-8f26-6ce55d24b4d8"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="repository" mc="Standard.Package" uid="60ca4b1a-7996-4991-b1c4-425ee8ecf85d"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

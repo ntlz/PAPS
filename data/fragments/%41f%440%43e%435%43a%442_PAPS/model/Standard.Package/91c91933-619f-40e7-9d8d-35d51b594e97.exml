@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Confirm delivery" version="4">
+  <OBJECT>
+    <ID name="Confirm delivery" mc="Standard.Package" uid="91c91933-619f-40e7-9d8d-35d51b594e97"/>
+    <PID name="Use Case Realizations" mc="Standard.Package" uid="15aa6017-5d4b-4277-ac2d-12ae3c5d3116"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Confirm delivery]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

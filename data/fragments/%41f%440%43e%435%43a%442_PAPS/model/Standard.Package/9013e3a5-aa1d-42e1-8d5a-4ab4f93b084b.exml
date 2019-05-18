@@ -21,6 +21,7 @@
         <COMPID name="Add  favorite dish" mc="Standard.UseCase" uid="fcd25109-c3e6-4be6-975e-498083e26185"/>
         <COMPID name="Form order" mc="Standard.UseCase" uid="548da138-6bc1-443a-a9f3-950092938768"/>
         <COMPID name="Display order history (client)" mc="Standard.UseCase" uid="4ef0ac49-0385-4c6e-b2e9-0c9fe7eae29c"/>
+        <COMPID name="Filter restaurant list" mc="Standard.UseCase" uid="6a65d969-59ac-40ad-aebd-2fbd82c4291f"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

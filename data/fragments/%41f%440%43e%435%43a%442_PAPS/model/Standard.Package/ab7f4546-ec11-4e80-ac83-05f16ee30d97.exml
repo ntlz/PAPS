@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CartSystem" version="4">
+  <OBJECT>
+    <ID name="CartSystem" mc="Standard.Package" uid="ab7f4546-ec11-4e80-ac83-05f16ee30d97"/>
+    <PID name="BusinessLogic" mc="Standard.Package" uid="393bf882-9e06-4d82-af2d-9057fa9e216f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CartSystem]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="CartSystem" mc="Standard.Class" uid="7cfec852-a467-4ce5-9342-3905666219c8"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="subsystem" mc="Infrastructure.Stereotype" uid="00700680-0000-01d3-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="CartSystemDiagram" mc="Standard.ClassDiagram" uid="460ed9c7-c89b-4232-811a-131ab127a745"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

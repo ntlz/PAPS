@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="OrderSystem" version="4">
+  <OBJECT>
+    <ID name="OrderSystem" mc="Standard.Package" uid="bfd6738d-c0c7-4a2e-9f5e-ed71b08e1e92"/>
+    <PID name="BusinessLogic" mc="Standard.Package" uid="393bf882-9e06-4d82-af2d-9057fa9e216f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[OrderSystem]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="OrderSystem" mc="Standard.Class" uid="10c41b7a-5d33-43ed-bce9-303bf4999ec7"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="subsystem" mc="Infrastructure.Stereotype" uid="00700680-0000-01d3-0000-000000000000"/>
+      </LINK>
+      <COMP relation="DependsOnDependency">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="e34a7823-57e6-45f6-ad9c-014658e10568"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="CartSystem" mc="Standard.Package" uid="ab7f4546-ec11-4e80-ac83-05f16ee30d97"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="0bc42453-c743-4816-be3c-bd6d0ba1649f"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="PaymentSystem" mc="Standard.Package" uid="477f90b6-e1df-411e-aec2-00bba47470a6"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="OrderSystemDiagram" mc="Standard.ClassDiagram" uid="91153f22-e8c5-4856-aadb-1c74e5540872"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

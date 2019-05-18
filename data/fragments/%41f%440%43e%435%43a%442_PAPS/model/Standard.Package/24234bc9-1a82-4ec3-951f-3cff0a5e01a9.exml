@@ -17,7 +17,6 @@
         <COMPID name="Primary Actors" mc="Standard.Package" uid="fe47cde8-65ab-47e1-9804-180576ca49be"/>
         <COMPID name="Secondary Actors" mc="Standard.Package" uid="20dd3df6-e960-44a0-bfa6-25ecf16eacbd"/>
         <COMPID name="Use Cases" mc="Standard.Package" uid="9c6c8372-615d-445c-8f2b-a9da428ca762"/>
-        <COMPID name="Filter restaurant list" mc="Standard.UseCase" uid="6a65d969-59ac-40ad-aebd-2fbd82c4291f"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="UseCaseDiagram" mc="Standard.UseCaseDiagram" uid="484d3615-dfbb-4e4f-ab5d-e2acaf7b3729"/>

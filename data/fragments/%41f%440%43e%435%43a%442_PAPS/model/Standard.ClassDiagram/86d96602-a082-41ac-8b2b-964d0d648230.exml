@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Layer Diagram" version="4">
+  <OBJECT>
+    <ID name="Layer Diagram" mc="Standard.ClassDiagram" uid="86d96602-a082-41ac-8b2b-964d0d648230"/>
+    <PID name="Design Model" mc="Standard.Package" uid="e5523db2-7f3d-4b73-aa37-22ddd3916bd9"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">379</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Layer Diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Core" mc="Standard.Package" uid="f2fd364f-6ae8-4f31-ba34-79e82284ab8c"/>
+        <ID name="Service" mc="Standard.Package" uid="2d0636dd-753e-4ac9-af29-92636db5b50e"/>
+        <ID name="BusinessLogic" mc="Standard.Package" uid="393bf882-9e06-4d82-af2d-9057fa9e216f"/>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="a9d6f241-7b38-41b6-b02e-7d923c5e8873"/>
+        </REFOBJ>
+        <ID name="Application" mc="Standard.Package" uid="bbe19fa0-53d3-472b-b592-95724e234bd3"/>
+        <ID name="OrderSystem" mc="Standard.Package" uid="bfd6738d-c0c7-4a2e-9f5e-ed71b08e1e92"/>
+        <ID name="control" mc="Standard.Package" uid="c75f4796-db20-4195-9f03-f66e4c0ced54"/>
+        <ID name="ui" mc="Standard.Package" uid="c6c0f94a-d576-4428-bd6e-b7b30fd7934b"/>
+        <ID name="CartSystem" mc="Standard.Package" uid="ab7f4546-ec11-4e80-ac83-05f16ee30d97"/>
+        <ID name="PaymentSystem" mc="Standard.Package" uid="477f90b6-e1df-411e-aec2-00bba47470a6"/>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="e34a7823-57e6-45f6-ad9c-014658e10568"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="0bc42453-c743-4816-be3c-bd6d0ba1649f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="5e5880cd-a0ce-4f37-9ba7-87f470826ee0"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="fb619ec4-cf30-4237-8506-d0e53d5fcbf9"/>
+        </REFOBJ>
+        <ID name="domain" mc="Standard.Package" uid="366f4061-f537-4d69-b0bf-00bf64e51293"/>
+        <ID name="repository" mc="Standard.Package" uid="60ca4b1a-7996-4991-b1c4-425ee8ecf85d"/>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="b2657c04-7a8a-40af-853b-8269e4f8afe2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="ba205e32-3f0e-4f3b-8f26-6ce55d24b4d8"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="27ea844f-c33e-44d9-a17d-997e4e93f7d1"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

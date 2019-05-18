@@ -14,10 +14,9 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Display Restaurant Menu" mc="Standard.Package" uid="7f8e5ec0-a672-458d-a435-3bfbfc6ad477"/>
         <COMPID name="Form Order" mc="Standard.Package" uid="b3f6ac80-149e-4709-a087-542201e5711e"/>
-        <COMPID name="Add to Cart" mc="Standard.Package" uid="ac29d693-935a-4434-8e4b-e04b7c260e4f"/>
-        <COMPID name="Add Restaurant" mc="Standard.Package" uid="9874e52e-72a8-4d4f-830f-c1728838ce41"/>
+        <COMPID name="Confirm delivery" mc="Standard.Package" uid="91c91933-619f-40e7-9d8d-35d51b594e97"/>
+        <COMPID name="Add favorite dish" mc="Standard.Package" uid="d113bf06-012a-44c3-9f33-bb507e1b2aa0"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

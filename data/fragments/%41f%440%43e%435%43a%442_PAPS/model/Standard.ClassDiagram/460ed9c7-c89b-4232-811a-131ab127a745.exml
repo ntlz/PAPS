@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CartSystemDiagram" version="4">
+  <OBJECT>
+    <ID name="CartSystemDiagram" mc="Standard.ClassDiagram" uid="460ed9c7-c89b-4232-811a-131ab127a745"/>
+    <PID name="CartSystem" mc="Standard.Package" uid="ab7f4546-ec11-4e80-ac83-05f16ee30d97"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">48</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[CartSystemDiagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="ICartSystem" mc="Standard.Class" uid="887b2b1d-8101-4ebe-8442-1de2971f4454"/>
+        <REFOBJ>
+          <ID name="addDish" mc="Standard.Operation" uid="95be34a2-ead2-49ca-a2d7-1f4bffe67f69"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getItems" mc="Standard.Operation" uid="a6aa098a-5894-4689-8a58-e54d4f52c925"/>
+        </REFOBJ>
+        <ID name="CartSystem" mc="Standard.Class" uid="7cfec852-a467-4ce5-9342-3905666219c8"/>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="0c090ec7-20b9-4af5-bdf4-56e56265841b"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="7d697641-b777-44eb-ac93-07aa7d385701"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

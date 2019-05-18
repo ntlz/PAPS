@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="interfaces" version="4">
+  <OBJECT>
+    <ID name="interfaces" mc="Standard.Package" uid="0a4cd2bb-c8cf-4453-b68c-1f7f34cdb1ac"/>
+    <PID name="BusinessLogic" mc="Standard.Package" uid="393bf882-9e06-4d82-af2d-9057fa9e216f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[interfaces]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ICartSystem" mc="Standard.Class" uid="887b2b1d-8101-4ebe-8442-1de2971f4454"/>
+        <COMPID name="IOrderSystem" mc="Standard.Class" uid="3b908feb-ec9d-424d-ba16-326c27868186"/>
+        <COMPID name="IPaymentSystem" mc="Standard.Class" uid="caa41181-2d77-403f-8348-f742c284cde7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

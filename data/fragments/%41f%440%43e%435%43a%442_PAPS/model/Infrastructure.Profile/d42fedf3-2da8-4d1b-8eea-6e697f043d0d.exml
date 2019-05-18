@@ -17,6 +17,9 @@
         <COMPID name="persistence" mc="Infrastructure.Stereotype" uid="60665730-03f2-4019-b7a5-e65cab7b53d6"/>
         <COMPID name="entity" mc="Infrastructure.Stereotype" uid="1fd773d8-d38b-4425-9ca3-3b7bb3355e24"/>
         <COMPID name="persistence" mc="Infrastructure.Stereotype" uid="0ff7399b-551d-4565-a89e-7724ea1a67c1"/>
+        <COMPID name="layer" mc="Infrastructure.Stereotype" uid="5af8d352-160e-43d0-a59f-731f2f5060ba"/>
+        <COMPID name="interface" mc="Infrastructure.Stereotype" uid="1a475e0f-f34b-4473-95d0-63d14a5eddd2"/>
+        <COMPID name="subsystem proxy" mc="Infrastructure.Stereotype" uid="ede4dd41-af56-4fde-b15f-2be21367949d"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

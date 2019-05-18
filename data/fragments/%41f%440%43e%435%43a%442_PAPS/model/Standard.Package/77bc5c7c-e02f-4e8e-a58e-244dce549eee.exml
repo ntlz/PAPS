@@ -14,11 +14,11 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="CartController" mc="Standard.Class" uid="30d230fb-517b-4e7f-97eb-8a87b8044afa"/>
         <COMPID name="DeliveryOrderController" mc="Standard.Class" uid="28712849-690a-43fe-b397-95eeabec9a9e"/>
-        <COMPID name="MenuController" mc="Standard.Class" uid="322e03b3-5790-49b9-95a0-e13bee92d5b4"/>
         <COMPID name="OrderController" mc="Standard.Class" uid="0ae82685-4865-4dc1-ae61-bd75e2f44e16"/>
-        <COMPID name="ManageRestConroller" mc="Standard.Class" uid="c3a43c8e-4584-41f3-ae58-4a244ba814ff"/>
+        <COMPID name="FavoriteController" mc="Standard.Class" uid="25c31d6a-fe06-49c7-bd9c-40ab4bac8765"/>
+        <COMPID name="RestaurantController" mc="Standard.Class" uid="3ebfc5ee-e049-4fec-bf15-0e603f22726f"/>
+        <COMPID name="MenuController" mc="Standard.Class" uid="b57cc4ac-ab61-4cb1-9a44-1abed9fe6e8c"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="control" mc="Infrastructure.Stereotype" uid="a1ed15b2-ba85-4ff4-8259-84840c315401"/>

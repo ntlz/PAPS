@@ -16,16 +16,24 @@
       <COMP relation="OwnedElement">
         <COMPID name="BankAPI" mc="Standard.Class" uid="0b49acfa-7347-405a-b038-217743c3e2bc"/>
         <COMPID name="Cart" mc="Standard.Class" uid="d32acba4-3414-4bc8-9e68-3491ee67859b"/>
-        <COMPID name="CartValidator" mc="Standard.Class" uid="88b97597-17eb-49a8-8c3c-fe99500134de"/>
         <COMPID name="DishService" mc="Standard.Class" uid="19857750-c3f9-44eb-b91e-b1c4716de812"/>
         <COMPID name="MenuService" mc="Standard.Class" uid="b7deb45d-741b-4f97-bf3e-4c1329143bf9"/>
-        <COMPID name="MenuPreferences" mc="Standard.Class" uid="d58f7c8c-fb29-4cca-b36a-e1d17e22d086"/>
         <COMPID name="OrderCalculator" mc="Standard.Class" uid="d72a09a6-7b80-4abd-acc7-84bbad2f1068"/>
         <COMPID name="OrderSender" mc="Standard.Class" uid="e8b4b6c4-7327-417e-8664-b3f651114c92"/>
-        <COMPID name="OrderValidator" mc="Standard.Class" uid="09607fc4-7f16-4bfa-8f9d-0e224c49bec2"/>
         <COMPID name="Persistence" mc="Standard.Package" uid="282039bc-337c-47ca-bdcc-1e5d453b2677"/>
         <COMPID name="TransactionCreator" mc="Standard.Class" uid="926833d9-5dcd-4c20-a1d3-9046ad33a130"/>
         <COMPID name="DB" mc="Standard.Class" uid="b638793d-29d4-4f90-a6d5-9da3762c179e"/>
+        <COMPID name="FavoriteDishJob" mc="Standard.Class" uid="09cc5df5-cbe4-42a9-a662-c857aa9267d5"/>
+        <COMPID name="RestaurantService" mc="Standard.Class" uid="0595b1f9-ad6e-4152-b208-9e04e39a4159"/>
+        <COMPID name="OrderCreator" mc="Standard.Class" uid="9fc54199-6f08-4311-9821-d7d9015e5919"/>
+        <COMPID name="OnlinePayJob" mc="Standard.Class" uid="65317261-b7a0-4038-b616-f5910acb8145"/>
+        <COMPID name="TransactionService" mc="Standard.Class" uid="5246a693-d3b7-4fd0-94e3-a5e221da0421"/>
+        <COMPID name="ConfirmDeliveryJob" mc="Standard.Class" uid="177094f0-dc2c-4ab6-981b-2401410f694b"/>
+        <COMPID name="OrderHistory" mc="Standard.Class" uid="92e98b39-c59e-41ee-bd85-1deb3fa61cd8"/>
+        <COMPID name="OrderService" mc="Standard.Class" uid="a77985d4-c535-43fd-8abf-c9ab1b4ab830"/>
+        <COMPID name="NewRestaurantJob" mc="Standard.Class" uid="12c44e34-9db0-4806-a854-17b4f8dbda66"/>
+        <COMPID name="RestaurantListJob" mc="Standard.Class" uid="c2ca3cbc-9c55-42e8-a414-bb8faf703b95"/>
+        <COMPID name="FormValidator" mc="Standard.Class" uid="9617071d-11cf-40df-ab78-ddc0f41eb477"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="entity" mc="Infrastructure.Stereotype" uid="327e0405-0e19-4119-930c-7f04f775f222"/>

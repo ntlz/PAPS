@@ -15,10 +15,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Client" mc="Standard.Class" uid="a5aaf6ed-5723-4918-a549-bd394e7f1a7e"/>
-        <COMPID name="DeliveryPerson" mc="Standard.Class" uid="8be0d358-e66c-42a9-8aa4-6b2860513d86"/>
         <COMPID name="Dish" mc="Standard.Class" uid="efa36e9c-a544-4187-a7ca-05afc41c5ab0"/>
-        <COMPID name="DishInfo" mc="Standard.Class" uid="229f3ab9-3f61-428e-ac17-a3f17430d09e"/>
-        <COMPID name="FavouriteDish" mc="Standard.Class" uid="cce0f34d-d0d8-4fcc-8877-d51f78177c7d"/>
         <COMPID name="Order" mc="Standard.Class" uid="5a96c7b3-56ad-4fff-abcd-94f5e115e91a"/>
         <COMPID name="Restaurant" mc="Standard.Class" uid="21590586-216c-4772-b31c-50084f3f5c68"/>
         <COMPID name="Transaction" mc="Standard.Class" uid="ccf8814d-4445-47a3-b83b-6d8dfa118747"/>

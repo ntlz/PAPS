@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Filter restaurant list" version="4">
   <OBJECT>
     <ID name="Filter restaurant list" mc="Standard.UseCase" uid="6a65d969-59ac-40ad-aebd-2fbd82c4291f"/>
-    <PID name="Use Case Model" mc="Standard.Package" uid="24234bc9-1a82-4ec3-951f-3cff0a5e01a9"/>
+    <PID name="Client" mc="Standard.Package" uid="9013e3a5-aa1d-42e1-8d5a-4ab4f93b084b"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

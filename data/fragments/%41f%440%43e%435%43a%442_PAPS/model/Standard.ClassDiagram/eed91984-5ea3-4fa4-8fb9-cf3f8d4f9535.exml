@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="PaymentSystemDiagram" version="4">
+  <OBJECT>
+    <ID name="PaymentSystemDiagram" mc="Standard.ClassDiagram" uid="eed91984-5ea3-4fa4-8fb9-cf3f8d4f9535"/>
+    <PID name="PaymentSystem" mc="Standard.Package" uid="477f90b6-e1df-411e-aec2-00bba47470a6"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">68</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[PaymentSystemDiagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="IPaymentSystem" mc="Standard.Class" uid="caa41181-2d77-403f-8348-f742c284cde7"/>
+        <REFOBJ>
+          <ID name="createTransaction" mc="Standard.Operation" uid="dfb9c9d7-a64c-404d-85aa-95f5fcb5ec6e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="pay" mc="Standard.Operation" uid="565ed1f3-e6e3-466b-a72c-c775e0718d22"/>
+        </REFOBJ>
+        <ID name="PaymentSystem" mc="Standard.Class" uid="36533700-97fc-4b0a-9f4d-34b880e67b1e"/>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="b8373a43-59c5-47a7-96c2-10015694fce7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="saveTransaction" mc="Standard.Operation" uid="5944f95e-a48e-4347-846a-4761c5d2ff06"/>
+        </REFOBJ>
+        <ID name="TransactionService" mc="Standard.Class" uid="63ae94d9-eed9-4398-9ddd-eff2488ee638"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="f534f79d-3226-4ce8-860e-609c238e593d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="a39e861d-4c21-4ffa-aa80-447730bf376b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="saveTransaction" mc="Standard.Operation" uid="b8047527-e162-44f2-b64e-280fd3d62997"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="8780b71e-d75b-4f6a-a2d5-d3df22a92b3f"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

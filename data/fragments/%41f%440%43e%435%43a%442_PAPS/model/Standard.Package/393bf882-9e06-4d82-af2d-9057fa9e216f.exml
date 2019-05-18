@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="BusinessLogic" version="4">
+  <OBJECT>
+    <ID name="BusinessLogic" mc="Standard.Package" uid="393bf882-9e06-4d82-af2d-9057fa9e216f"/>
+    <PID name="Design Model" mc="Standard.Package" uid="e5523db2-7f3d-4b73-aa37-22ddd3916bd9"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[BusinessLogic]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="CartSystem" mc="Standard.Package" uid="ab7f4546-ec11-4e80-ac83-05f16ee30d97"/>
+        <COMPID name="OrderSystem" mc="Standard.Package" uid="bfd6738d-c0c7-4a2e-9f5e-ed71b08e1e92"/>
+        <COMPID name="PaymentSystem" mc="Standard.Package" uid="477f90b6-e1df-411e-aec2-00bba47470a6"/>
+        <COMPID name="control" mc="Standard.Package" uid="c75f4796-db20-4195-9f03-f66e4c0ced54"/>
+        <COMPID name="interfaces" mc="Standard.Package" uid="0a4cd2bb-c8cf-4453-b68c-1f7f34cdb1ac"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="layer" mc="Infrastructure.Stereotype" uid="5af8d352-160e-43d0-a59f-731f2f5060ba"/>
+      </LINK>
+      <COMP relation="DependsOnDependency">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="a9d6f241-7b38-41b6-b02e-7d923c5e8873"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="Service" mc="Standard.Package" uid="2d0636dd-753e-4ac9-af29-92636db5b50e"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

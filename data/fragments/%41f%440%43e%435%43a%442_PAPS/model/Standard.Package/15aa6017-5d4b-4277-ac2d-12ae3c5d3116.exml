@@ -17,6 +17,7 @@
         <COMPID name="Form Order" mc="Standard.Package" uid="b3f6ac80-149e-4709-a087-542201e5711e"/>
         <COMPID name="Confirm delivery" mc="Standard.Package" uid="91c91933-619f-40e7-9d8d-35d51b594e97"/>
         <COMPID name="Add favorite dish" mc="Standard.Package" uid="d113bf06-012a-44c3-9f33-bb507e1b2aa0"/>
+        <COMPID name="Add restaurant" mc="Standard.Package" uid="c508c714-177e-4e40-bd81-0407a196585e"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

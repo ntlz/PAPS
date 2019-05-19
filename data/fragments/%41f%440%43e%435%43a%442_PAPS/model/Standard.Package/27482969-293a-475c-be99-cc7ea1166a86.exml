@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Display restaurant menu" version="4">
+  <OBJECT>
+    <ID name="Display restaurant menu" mc="Standard.Package" uid="27482969-293a-475c-be99-cc7ea1166a86"/>
+    <PID name="Use Case Realizations" mc="Standard.Package" uid="15aa6017-5d4b-4277-ac2d-12ae3c5d3116"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Display restaurant menu]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <OBJECT>
+          <ID name="Display Restaurant Menu" mc="Standard.Collaboration" uid="8082bf19-c65d-4e35-a131-05163d657d3b"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Display Restaurant Menu]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedBehavior">
+              <COMPID name="Interaction" mc="Standard.Interaction" uid="8311811f-d181-4dfc-aadf-1d13ab8176bd"/>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="Display Restaurant Menu A-3-1" mc="Standard.Collaboration" uid="c55ba70d-8416-493d-bb00-124f33770907"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Display Restaurant Menu A-3-1]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedBehavior">
+              <COMPID name="Interaction" mc="Standard.Interaction" uid="87027952-b08d-4f5d-a2a4-c449ff88fe16"/>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="Display Restaurant Menu A-2" mc="Standard.Collaboration" uid="0609a312-cec4-4796-a1c4-23d3346903ce"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Display Restaurant Menu A-2]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedBehavior">
+              <COMPID name="Interaction" mc="Standard.Interaction" uid="90c2fd51-f211-46cc-b8bb-6c9b44dea22a"/>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="Display Restaurant Menu A-3-2" mc="Standard.Collaboration" uid="61cfc606-1570-438d-ac81-961e04b4d6ec"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Display Restaurant Menu A-3-2]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedBehavior">
+              <COMPID name="Interaction" mc="Standard.Interaction" uid="147171e7-d61a-44f6-853c-8279247d818f"/>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="Display Restaurant Menu A-6-1" mc="Standard.Collaboration" uid="328ae20f-2081-433e-b844-9b1c79c86b49"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Display Restaurant Menu A-6-1]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedBehavior">
+              <COMPID name="Interaction" mc="Standard.Interaction" uid="9a860a28-5427-41b3-b2f7-0933a3a20020"/>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="VOPC" mc="Standard.ClassDiagram" uid="bf7a5007-20d0-48db-be04-353ae0356fa6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

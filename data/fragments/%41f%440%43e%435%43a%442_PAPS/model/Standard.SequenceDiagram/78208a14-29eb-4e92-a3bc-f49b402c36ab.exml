@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Interaction" version="4">
+  <OBJECT>
+    <ID name="Interaction" mc="Standard.SequenceDiagram" uid="78208a14-29eb-4e92-a3bc-f49b402c36ab"/>
+    <PID name="Interaction" mc="Standard.Interaction" uid="87027952-b08d-4f5d-a2a4-c449ff88fe16"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">78</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Interaction]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="781a1573-8a4b-48be-819d-96f34a925ead"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="35b3efb3-68b2-4568-b342-68def9841fcf"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="//getFavoriteDishes(Restaurant, User): Dish[*]" mc="Standard.Message" uid="04194cea-859c-4868-a61e-9ca4f29b5c5a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="41c039dc-4e05-4144-9eb6-6ea73cf23577"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="6e0c300d-56a4-45c6-9fe8-1fa5ff09914c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="r3" mc="Standard.Lifeline" uid="53f91cd7-d6fb-44ee-b4e4-dce27ca8f15d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="//getFavoriteDishes(Restaurant, User): Dish[*]" mc="Standard.Message" uid="275931c4-7b19-4098-b893-10c66834d93a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="1b93c231-8df5-4bf8-b1e9-5cec82092754"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="c3de1d65-cbc7-41bc-8fc4-9ce94e7f5644"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="1291e790-a23b-46fa-adf8-b81ec88cbda1"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="1b0ad63f-0d3e-4ab3-aa98-b2db47d3a940"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Message" uid="1aadac7b-ebd5-4682-aa59-06631b76fb9a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="2573de74-7f3b-41ca-a684-2d3c75c3bee7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionSpecification" uid="cfec40c5-c533-4ada-a257-aea10ddfd7a3"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionSpecification" uid="7b3f4c3b-5a44-4a0f-9338-7795ebc3ca03"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="bd49bfe9-653b-4595-96e4-00b93cab58be"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="r1" mc="Standard.Lifeline" uid="e58858b0-48a7-4cab-bb07-dfa8c5f82759"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionSpecification" uid="9092ed28-ffa3-497c-a831-77bd54c392ab"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="r4" mc="Standard.Lifeline" uid="f8e71b50-278d-4e25-ae9a-d869ef6aed88"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="r2" mc="Standard.Lifeline" uid="877d8be1-edcc-47bd-a545-66a186f28853"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Message" uid="dd3a3951-305a-4d63-b69b-86410cd5c689"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="edce62b9-3146-400b-8d02-38e32b76c230"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="f384bd55-0945-483a-a8c9-bd5f753d16a6"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Message" uid="889614c0-6b62-4a5e-b1c7-100662c60457"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionSpecification" uid="639e90aa-5664-4a8c-a3b9-662e4ad59f2d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="8c970488-6253-4f17-ad39-be26ff319faf"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="60ab2a7b-e574-49ec-a5f7-e96ba372ffff"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="c9831beb-6976-440a-af3f-9f731ee56acf"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="0c3dd5a6-2170-4b31-b3cb-24c4c3348276"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="//showMenu(Dish[*])" mc="Standard.Message" uid="59e1de88-9ab0-438d-b15e-a68ad3473b46"/>
+        </REFOBJ>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

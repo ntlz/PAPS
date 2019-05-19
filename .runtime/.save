@@ -1,7 +1,12 @@
-#Sun May 19 19:52:15 MSK 2019
+#Sun May 19 20:48:11 MSK 2019
+org.modelio.diagram.editor.OpenedDiagrams9='Interaction' {78208a14-29eb-4e92-a3bc-f49b402c36ab} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams8='Interaction' {7b3bca2f-32f2-473e-8a34-3a90135f4f44} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams7='Interaction' {b3b420d3-6a22-4ebc-b1c7-9e2494ded402} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams6='Interaction' {5aef4316-cdda-485b-8ab5-1d82247ec442} Standard.SequenceDiagram
 org.modelio.diagram.editor.OpenedDiagrams5='Interaction Sequence diagram' {6a2f2049-3823-44a9-ab6e-6820ffb72a50} Standard.SequenceDiagram
 org.modelio.diagram.editor.OpenedDiagrams4='VOPC' {ce7570a1-3517-45d4-b6a3-376e671a394c} Standard.ClassDiagram
-org.modelio.diagram.editor.OpenedDiagrams3='VOPC' {f63b1474-1a99-4d91-b379-bc47d52f1344} Standard.ClassDiagram
-org.modelio.diagram.editor.OpenedDiagrams2='BasicFlow(1)' {aa976873-eabc-44f7-9150-caa5494e34b7} Standard.SequenceDiagram
-org.modelio.diagram.editor.OpenedDiagrams1='Interaction Sequence diagram' {e9f26011-192a-4b01-ba2d-925e9f44c9d1} Standard.SequenceDiagram
-org.modelio.diagram.editor.OpenedDiagrams0='VOPC' {62b6f344-1eeb-4bbd-ad68-402a0a4dd669} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams3='BasicFlow(1)' {aa976873-eabc-44f7-9150-caa5494e34b7} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams2='Interaction Sequence diagram' {e9f26011-192a-4b01-ba2d-925e9f44c9d1} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams1='VOPC' {62b6f344-1eeb-4bbd-ad68-402a0a4dd669} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams0='VOPC' {f63b1474-1a99-4d91-b379-bc47d52f1344} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams10='Interaction' {aa0df174-3e58-445b-903e-739edee0bfea} Standard.SequenceDiagram

@@ -34,6 +34,7 @@
         <COMPID name="NewRestaurantJob" mc="Standard.Class" uid="12c44e34-9db0-4806-a854-17b4f8dbda66"/>
         <COMPID name="RestaurantListJob" mc="Standard.Class" uid="c2ca3cbc-9c55-42e8-a414-bb8faf703b95"/>
         <COMPID name="FormValidator" mc="Standard.Class" uid="9617071d-11cf-40df-ab78-ddc0f41eb477"/>
+        <COMPID name="OrderListJob" mc="Standard.Class" uid="20b21f18-52ac-4ea5-8b65-e43d29a013f6"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="entity" mc="Infrastructure.Stereotype" uid="327e0405-0e19-4119-930c-7f04f775f222"/>

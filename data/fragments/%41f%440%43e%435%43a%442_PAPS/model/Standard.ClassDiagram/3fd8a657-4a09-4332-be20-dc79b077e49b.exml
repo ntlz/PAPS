@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VOPC" version="4">
+  <OBJECT>
+    <ID name="VOPC" mc="Standard.ClassDiagram" uid="3fd8a657-4a09-4332-be20-dc79b077e49b"/>
+    <PID name="Add favorite dish" mc="Standard.Package" uid="d113bf06-012a-44c3-9f33-bb507e1b2aa0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">128</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[VOPC]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="DB" mc="Standard.Class" uid="b638793d-29d4-4f90-a6d5-9da3762c179e"/>
+        <REFOBJ>
+          <ID name="getDishByName" mc="Standard.Operation" uid="0ba6d65a-c57e-4f1c-99a1-658ca1837259"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="saveTransaction" mc="Standard.Operation" uid="dea86299-d049-4c43-9639-35b354058fc3"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getAllRestaurants" mc="Standard.Operation" uid="d96c152e-2875-4892-8123-afda58713be5"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="saveOrderToDeliveryPerson" mc="Standard.Operation" uid="a565024f-0ef9-4a2c-9f0c-15c7b304ad1a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getDishesByRestaurant" mc="Standard.Operation" uid="c1395bb3-f98f-4934-8811-dc076c9ecc74"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getOrder" mc="Standard.Operation" uid="4dff8352-39d5-4dde-bb84-1939576566b1"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="saveOrder" mc="Standard.Operation" uid="c919e347-7179-495b-b5f3-c2b04eca957f"/>
+        </REFOBJ>
+        <ID name="ClientUI" mc="Standard.Class" uid="c365bcbf-770d-4378-83f7-8a7931f57d17"/>
+        <REFOBJ>
+          <ID name="setMenuPreferences" mc="Standard.Operation" uid="d2ef3ae8-1f7c-422e-b18b-f276fdd665df"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="showMenuPreferences" mc="Standard.Operation" uid="8547c32a-a829-4b0d-807f-ace62f5d8f34"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="submitOrder" mc="Standard.Operation" uid="b3b0e2a5-7d24-47af-a83a-45078da8baae"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="addDish" mc="Standard.Operation" uid="d749a09a-de39-4c7b-b08c-40f12d5229e8"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="showMenu" mc="Standard.Operation" uid="474228f6-8b9d-403b-935b-0f4052314dab"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="finishChoosing" mc="Standard.Operation" uid="f747b676-3d06-46a4-86c0-be496b7ff6d6"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getRestaurants" mc="Standard.Operation" uid="8cab58af-8393-40ce-818c-7a77c4236c92"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getMenu" mc="Standard.Operation" uid="49cc5f57-1fbe-49c9-8804-9c599bcd142a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="displayMessage" mc="Standard.Operation" uid="0fbdb9f3-9842-4a26-963d-01db3f77f11e"/>
+        </REFOBJ>
+        <ID name="FavoriteController" mc="Standard.Class" uid="25c31d6a-fe06-49c7-bd9c-40ab4bac8765"/>
+        <ID name="MenuService" mc="Standard.Class" uid="b7deb45d-741b-4f97-bf3e-4c1329143bf9"/>
+        <REFOBJ>
+          <ID name="getMenuByRestaurant" mc="Standard.Operation" uid="8fd787e8-7215-48fb-8724-ab0478313812"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getDishesSortedByPreferences" mc="Standard.Operation" uid="72fb73cf-0e80-44cd-b3c9-8e774e55026f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="sortDishesPyPreferences" mc="Standard.Operation" uid="49dafe3c-a948-4c43-83bf-40984b52958e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getPopularDishes" mc="Standard.Operation" uid="a6e948c8-d274-4473-bc5f-1f1165f424d3"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="sortDishesByPopularity" mc="Standard.Operation" uid="2532564f-4979-438e-bcb7-40bf7f3c2aa2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="735923ae-4a41-4c22-8e7d-25319a7f614b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="fd6f60ed-f46d-441d-8749-7e96a8f15a9a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="6279259b-d900-478e-9261-910c77ddbf24"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="0c073bf2-8e31-4fcc-9fc5-edcaaf4ef3cd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="2a55e804-11bf-47b4-9561-849afd4cc487"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="51fc393c-81d9-4c62-a996-7c19e9847eb9"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="addFavoriteDish" mc="Standard.Operation" uid="da695703-825c-49a8-b573-0e10515531d0"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="updateDishStatus" mc="Standard.Operation" uid="cef852ef-a4f3-418c-89d5-cb74eed4d75c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="changeDishStatus" mc="Standard.Operation" uid="383d2bf8-73d1-493d-9c82-5ff1b3f650b1"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="changeDishStatus" mc="Standard.Operation" uid="b7508e10-84c1-48b9-bb82-0372c8345525"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="updateFavoriteDishList" mc="Standard.Operation" uid="cbde9d31-bf98-4d0b-9559-beadb4f916a2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getFavoriteDishList" mc="Standard.Operation" uid="ecf1e9df-0bd4-4cab-af4b-47273245f86d"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="aba88d36-4dce-4ba9-9d79-5841f764d635"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

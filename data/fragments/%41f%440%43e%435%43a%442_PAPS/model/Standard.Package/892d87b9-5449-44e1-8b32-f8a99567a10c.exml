@@ -32,6 +32,9 @@
           </DEPENDENCIES>
         </OBJECT>
       </COMP>
+      <COMP relation="Product">
+        <COMPID name="VOPC" mc="Standard.ClassDiagram" uid="80ab4aa8-6bef-4075-a9b6-828c2861b6cb"/>
+      </COMP>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="List&lt;Dish&gt;" version="4">
+  <OBJECT>
+    <ID name="List&lt;Dish&gt;" mc="Standard.DataType" uid="b64419ae-1a11-423e-bb3d-1cdd5b76127e"/>
+    <PID name="Firmware" mc="Standard.Package" uid="ff161109-94de-4eb9-8fc7-d4b9f4ed4562"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[List<Dish>]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

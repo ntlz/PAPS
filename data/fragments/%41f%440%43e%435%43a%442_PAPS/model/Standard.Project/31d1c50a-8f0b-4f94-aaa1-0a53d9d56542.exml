@@ -13,6 +13,7 @@
         <COMPID name="Class Model" mc="Standard.Package" uid="bad380bf-33b0-4549-adf6-ff0faa4de93e"/>
         <COMPID name="Use Case Model" mc="Standard.Package" uid="24234bc9-1a82-4ec3-951f-3cff0a5e01a9"/>
         <COMPID name="Domain Model" mc="Standard.Package" uid="4c8bf503-5d9f-40aa-98dc-176dc335fce6"/>
+        <COMPID name="Views" mc="Standard.Package" uid="1807eda9-02cf-4fd2-906c-fc24accbedcb"/>
       </COMP>
       <COMP relation="DiagramRoot">
         <COMPID name="Проект_PAPS" mc="Infrastructure.DiagramSet" uid="22b6caa4-735a-4dd7-8f30-d5c2ca5d0660"/>

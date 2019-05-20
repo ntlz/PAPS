@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Views" version="4">
+  <OBJECT>
+    <ID name="Views" mc="Standard.Package" uid="1807eda9-02cf-4fd2-906c-fc24accbedcb"/>
+    <PID name="Проект_PAPS" mc="Standard.Project" uid="31d1c50a-8f0b-4f94-aaa1-0a53d9d56542"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Views]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Process view" mc="Standard.Package" uid="31aa04f9-050b-4de9-bb72-848f3e4f6e93"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

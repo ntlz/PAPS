@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Form Order process diagram" version="4">
+  <OBJECT>
+    <ID name="Form Order process diagram" mc="Standard.ActivityDiagram" uid="2e33df6c-54af-4b81-b441-c6b95d4650a9"/>
+    <PID name="Form order process" mc="Standard.Activity" uid="b940dc98-f881-470c-8655-9724cfbbef49"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">270</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Form Order process diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="Initial Node" mc="Standard.InitialNode" uid="30042cc7-ff85-41c4-a8b6-283d8e13b41f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Get restaurant process" mc="Standard.OpaqueAction" uid="5a585c84-7c80-42ca-9f6b-a1bb10ac36e8"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="cbe762b0-00a4-4a3d-a5eb-4f5bfff3ccbd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Get menu process" mc="Standard.OpaqueAction" uid="2dcccc7a-6e58-4996-9da2-80ce71076508"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="428f72c1-7493-4d87-93e5-ea3bf1304ed7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Order creating process" mc="Standard.OpaqueAction" uid="bfb742e9-9805-4585-a224-2724e278ca17"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Add dish to cart process" mc="Standard.OpaqueAction" uid="e87fc22a-0138-467b-8f6e-6522258025c8"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="e672dda6-474c-40c7-bb74-822b7b3f313a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="adbef4fc-5f7c-47a4-9955-6051468ff3d6"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Calculate sum process" mc="Standard.OpaqueAction" uid="414431d2-13a2-4047-8604-7cd726782105"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="02abb7dc-ece3-48e1-a2a9-f396dd1bf88d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Form delivery process" mc="Standard.OpaqueAction" uid="5f21220f-5db2-40cc-aae5-27a16bdf59fa"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="65ca6ac4-ed72-4f8c-8d88-74b69c17c3df"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Payment process" mc="Standard.OpaqueAction" uid="9ceff025-9a0f-4a4e-9ed0-ee8944bd339e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Choose payment variant process" mc="Standard.OpaqueAction" uid="94e53c24-9db7-4b68-b3e4-beaebbe1861c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="2088c362-67dc-4d84-a1a7-ef81d7e8d380"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Online payment choosed" mc="Standard.ConditionalNode" uid="10b3e927-c790-40d9-afee-0200ff9fe45a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Online payment process" mc="Standard.OpaqueAction" uid="5eb353f0-408d-4f6d-9738-b01bf18aa8fe"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="8605015c-b24a-43fa-928d-0d0391c90ca9"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="6a955761-be8d-45e0-a93a-c45c2b2c499b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Order ready process" mc="Standard.OpaqueAction" uid="b956029a-fddd-46c7-ac7f-a8597a3f4211"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="6581e6bf-17dd-49c8-a603-69640e0e4083"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="e47ff21f-196e-45a6-9884-eed2690db9dd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Activity Final Node" mc="Standard.ActivityFinalNode" uid="cf6caaa0-1a9c-46cd-8024-7fd2b77c9323"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="c89ee8dd-8314-4550-8585-93aa02017503"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="83516c13-9773-4cfd-9264-7ebf91ef878e"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

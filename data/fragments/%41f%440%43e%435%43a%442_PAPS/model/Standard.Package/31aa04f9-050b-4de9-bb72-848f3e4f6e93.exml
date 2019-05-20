@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Process view" version="4">
+  <OBJECT>
+    <ID name="Process view" mc="Standard.Package" uid="31aa04f9-050b-4de9-bb72-848f3e4f6e93"/>
+    <PID name="Views" mc="Standard.Package" uid="1807eda9-02cf-4fd2-906c-fc24accbedcb"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Process view]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Form order process" mc="Standard.Activity" uid="b940dc98-f881-470c-8655-9724cfbbef49"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

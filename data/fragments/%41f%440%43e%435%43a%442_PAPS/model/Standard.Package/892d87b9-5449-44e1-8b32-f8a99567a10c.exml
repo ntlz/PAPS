@@ -13,6 +13,9 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="545ca20e-bfe5-4546-9787-6e5a09ac7940"/>
+      </COMP>
       <COMP relation="OwnedElement">
         <OBJECT>
           <ID name="Add restaurant" mc="Standard.Collaboration" uid="fa761cc3-c744-46d8-9715-bb1c62f2dac2"/>

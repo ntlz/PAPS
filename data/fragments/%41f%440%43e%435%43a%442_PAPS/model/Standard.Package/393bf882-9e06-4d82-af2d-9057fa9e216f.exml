@@ -21,6 +21,7 @@
         <COMPID name="interfaces" mc="Standard.Package" uid="0a4cd2bb-c8cf-4453-b68c-1f7f34cdb1ac"/>
         <COMPID name="RestaurantManageSystem" mc="Standard.Package" uid="fdffd68a-93a3-438e-b8dd-8c83d3ed11cb"/>
         <COMPID name="DisplayMenuSystem" mc="Standard.Package" uid="80b1d8ec-2e3f-4112-a5dc-c388a7f56ab4"/>
+        <COMPID name="ConfirmDeliverySystem" mc="Standard.Package" uid="0102fd51-7a24-468d-b1b4-fa4cc05a8630"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="layer" mc="Infrastructure.Stereotype" uid="5af8d352-160e-43d0-a59f-731f2f5060ba"/>

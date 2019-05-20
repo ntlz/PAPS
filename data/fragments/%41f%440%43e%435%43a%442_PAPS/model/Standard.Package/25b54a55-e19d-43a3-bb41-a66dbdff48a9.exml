@@ -15,6 +15,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Add restaurant realization" mc="Standard.Package" uid="892d87b9-5449-44e1-8b32-f8a99567a10c"/>
+        <COMPID name="Confirm delivery" mc="Standard.Package" uid="fe033b51-1416-4cd0-b6d1-35f60b3483a7"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

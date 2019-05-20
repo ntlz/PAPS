@@ -769,6 +769,9 @@
           </DEPENDENCIES>
         </OBJECT>
       </COMP>
+      <LINK relation="Extension">
+        <ID name="subsystem proxy" mc="Infrastructure.Stereotype" uid="ede4dd41-af56-4fde-b15f-2be21367949d"/>
+      </LINK>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

@@ -15,6 +15,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="PaymentSystem" mc="Standard.Class" uid="36533700-97fc-4b0a-9f4d-34b880e67b1e"/>
+        <COMPID name="TransactionCreator" mc="Standard.Class" uid="dae983b1-0558-4181-979f-c6298779aa1c"/>
       </COMP>
       <LINK relation="Extension">
         <FOREIGNID name="subsystem" mc="Infrastructure.Stereotype" uid="00700680-0000-01d3-0000-000000000000"/>

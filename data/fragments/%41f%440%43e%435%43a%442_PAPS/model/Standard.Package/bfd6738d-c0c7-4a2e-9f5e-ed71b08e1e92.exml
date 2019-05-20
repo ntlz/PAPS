@@ -15,6 +15,10 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="OrderSystem" mc="Standard.Class" uid="10c41b7a-5d33-43ed-bce9-303bf4999ec7"/>
+        <COMPID name="OrderSender" mc="Standard.Class" uid="d9587c11-35a5-42d0-8796-39ab46cfe44a"/>
+        <COMPID name="OrderCreator" mc="Standard.Class" uid="1b6c5072-406d-4d12-a977-025e3c42e59a"/>
+        <COMPID name="OrderCalculator" mc="Standard.Class" uid="aa8adcc0-ebef-4f35-92f5-c7d41a256146"/>
+        <COMPID name="FormValidator" mc="Standard.Class" uid="6e2b7f0e-23ec-42bb-8a5f-842deb10db55"/>
       </COMP>
       <LINK relation="Extension">
         <FOREIGNID name="subsystem" mc="Infrastructure.Stereotype" uid="00700680-0000-01d3-0000-000000000000"/>
@@ -41,6 +45,18 @@
           <DEPENDENCIES>
             <LINK relation="DependsOn">
               <ID name="PaymentSystem" mc="Standard.Package" uid="477f90b6-e1df-411e-aec2-00bba47470a6"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="f52ee8a9-094a-4e67-b976-cf643a3e5c54"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="DisplayMenuSystem" mc="Standard.Package" uid="80b1d8ec-2e3f-4112-a5dc-c388a7f56ab4"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>

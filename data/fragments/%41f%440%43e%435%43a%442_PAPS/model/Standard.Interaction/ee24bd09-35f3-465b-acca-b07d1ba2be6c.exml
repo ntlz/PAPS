@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Interaction" version="4">
   <OBJECT>
     <ID name="Interaction" mc="Standard.Interaction" uid="ee24bd09-35f3-465b-acca-b07d1ba2be6c"/>
-    <PID name="DisplayMenuSystem" mc="Standard.Package" uid="80b1d8ec-2e3f-4112-a5dc-c388a7f56ab4"/>
+    <PID name="Display restaurant menu realization" mc="Standard.Package" uid="5ae6c0a1-e532-4fa7-9dc0-f42a6b3ce963"/>
     <ATTRIBUTES>
       <ATT name="IsReentrant">false</ATT>
       <ATT name="Name"><![CDATA[Interaction]]></ATT>

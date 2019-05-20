@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="IAddFavoriteDish" version="4">
+  <OBJECT>
+    <ID name="IAddFavoriteDish" mc="Standard.Interface" uid="8883732d-7a7d-4429-b45c-e5a3a2b7f642"/>
+    <PID name="interfaces" mc="Standard.Package" uid="0a4cd2bb-c8cf-4453-b68c-1f7f34cdb1ac"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[IAddFavoriteDish]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

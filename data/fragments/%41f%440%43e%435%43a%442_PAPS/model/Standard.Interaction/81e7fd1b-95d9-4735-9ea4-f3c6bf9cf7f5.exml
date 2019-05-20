@@ -2595,11 +2595,7 @@
                   <ATT name="Name"><![CDATA[r]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
-                <DEPENDENCIES>
-                  <LINK relation="Base">
-                    <ID name="IAddRestaurant" mc="Standard.Interface" uid="b566e10c-f801-4638-89d8-e6fca1f502ac"/>
-                  </LINK>
-                </DEPENDENCIES>
+                <DEPENDENCIES></DEPENDENCIES>
               </OBJECT>
               <OBJECT>
                 <ID name="" mc="Standard.BindableInstance" uid="a9b8e3fd-ef84-49fb-8b78-69aa102ec4a1"/>

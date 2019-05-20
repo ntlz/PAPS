@@ -78,20 +78,6 @@
           </DEPENDENCIES>
         </OBJECT>
       </COMP>
-      <COMP relation="Realized">
-        <OBJECT>
-          <ID name="InterfaceRealization" mc="Standard.InterfaceRealization" uid="d5d1a5ee-f47c-4bd0-b1c2-a084bec7f0be"/>
-          <ATTRIBUTES>
-            <ATT name="Name"><![CDATA[InterfaceRealization]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <LINK relation="Implemented">
-              <ID name="IAddRestaurant" mc="Standard.Interface" uid="b566e10c-f801-4638-89d8-e6fca1f502ac"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
-      </COMP>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

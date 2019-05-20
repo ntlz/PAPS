@@ -19,6 +19,7 @@
         <COMPID name="Order" mc="Standard.Class" uid="d524dfb2-510a-4886-94ca-93c0cf8c8d10"/>
         <COMPID name="Restaurant" mc="Standard.Class" uid="94fb5b9f-9939-4f1a-9790-7d66d0e88f9e"/>
         <COMPID name="Transaction" mc="Standard.Class" uid="79158000-cb65-488a-afae-0678559e5d85"/>
+        <COMPID name="MenuPreferences" mc="Standard.Class" uid="93b1ff07-2fa1-47b4-8bba-3fdd98d536af"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

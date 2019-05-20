@@ -14,10 +14,6 @@
         <ID name="AdminUI" mc="Standard.Class" uid="a726c3e8-57d2-499e-a897-46f1fb2d2d6c"/>
         <ID name="RestaurantController" mc="Standard.Class" uid="cbf50628-c672-4c26-bb46-ae17a37ae1aa"/>
         <ID name="AddRestaurant" mc="Standard.Class" uid="39d08152-edac-4061-9528-a558e1132431"/>
-        <ID name="IAddRestaurant" mc="Standard.Interface" uid="b566e10c-f801-4638-89d8-e6fca1f502ac"/>
-        <REFOBJ>
-          <ID name="saveInfo" mc="Standard.Operation" uid="648e59f7-a5f1-4974-8be9-e31dafe9a1e9"/>
-        </REFOBJ>
         <ID name="Restaurant" mc="Standard.Class" uid="94fb5b9f-9939-4f1a-9790-7d66d0e88f9e"/>
         <ID name="RestaurantRepo" mc="Standard.Class" uid="a310d022-2735-457d-b041-4493dac6ce32"/>
         <ID name="RestaurantService" mc="Standard.Class" uid="a5f85eba-1ef9-4784-b544-bddc54ca6085"/>
@@ -58,9 +54,6 @@
           <ID name="saveToDB" mc="Standard.Operation" uid="40073413-1cf6-4d6b-bad7-7665123a9163"/>
         </REFOBJ>
         <REFOBJ>
-          <ID name="setParams" mc="Standard.Operation" uid="5250b71b-a74a-4d2f-b1e2-d89df4c09ba3"/>
-        </REFOBJ>
-        <REFOBJ>
           <ID name="name" mc="Standard.Attribute" uid="fa4ff137-2dab-450b-8a82-180841ac5125"/>
         </REFOBJ>
         <REFOBJ>
@@ -68,15 +61,6 @@
         </REFOBJ>
         <REFOBJ>
           <ID name="menu" mc="Standard.Attribute" uid="f9842e05-3d23-49f1-892e-8df2b53acc92"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="InterfaceRealization" mc="Standard.InterfaceRealization" uid="d5d1a5ee-f47c-4bd0-b1c2-a084bec7f0be"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="transformMenu" mc="Standard.Operation" uid="4cfb74de-89a8-4956-b470-1fa39ff6ab5f"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="updateParams" mc="Standard.Operation" uid="8dafbbc1-c759-4829-bd92-9aec4f2cf4b9"/>
         </REFOBJ>
         <REFOBJ>
           <ID name="saveToDB" mc="Standard.Operation" uid="e59065cd-9459-4181-be52-0248715bdf8e"/>

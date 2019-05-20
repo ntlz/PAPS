@@ -17,6 +17,7 @@
         <COMPID name="ICartSystem" mc="Standard.Class" uid="887b2b1d-8101-4ebe-8442-1de2971f4454"/>
         <COMPID name="IOrderSystem" mc="Standard.Class" uid="3b908feb-ec9d-424d-ba16-326c27868186"/>
         <COMPID name="IPaymentSystem" mc="Standard.Class" uid="caa41181-2d77-403f-8348-f742c284cde7"/>
+        <COMPID name="IAddRestaurant" mc="Standard.Interface" uid="b566e10c-f801-4638-89d8-e6fca1f502ac"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

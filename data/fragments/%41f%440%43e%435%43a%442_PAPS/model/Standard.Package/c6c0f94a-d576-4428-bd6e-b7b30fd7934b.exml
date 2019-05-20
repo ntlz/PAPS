@@ -18,6 +18,7 @@
         <COMPID name="ClientUI" mc="Standard.Class" uid="17f314da-370c-4c29-b31c-c9dd3a50dab1"/>
         <COMPID name="DeliveryPersonUI" mc="Standard.Class" uid="fbd20335-5f43-43ff-8342-8aac0e1d638e"/>
         <COMPID name="OrderUI" mc="Standard.Class" uid="cf272655-e487-4928-b342-5e782d3817c4"/>
+        <COMPID name="AdminUI" mc="Standard.Class" uid="a726c3e8-57d2-499e-a897-46f1fb2d2d6c"/>
       </COMP>
       <COMP relation="DependsOnDependency">
         <OBJECT>

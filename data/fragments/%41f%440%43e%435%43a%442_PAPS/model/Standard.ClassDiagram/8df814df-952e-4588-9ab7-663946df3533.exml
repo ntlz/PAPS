@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RestaurantManageSystemDiagram" version="4">
+  <OBJECT>
+    <ID name="RestaurantManageSystemDiagram" mc="Standard.ClassDiagram" uid="8df814df-952e-4588-9ab7-663946df3533"/>
+    <PID name="RestaurantManageSystem" mc="Standard.Package" uid="fdffd68a-93a3-438e-b8dd-8c83d3ed11cb"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">123</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[RestaurantManageSystemDiagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="IAddRestaurant" mc="Standard.Interface" uid="b566e10c-f801-4638-89d8-e6fca1f502ac"/>
+        <ID name="AddRestaurant" mc="Standard.Class" uid="39d08152-edac-4061-9528-a558e1132431"/>
+        <REFOBJ>
+          <ID name="saveInfo" mc="Standard.Operation" uid="648e59f7-a5f1-4974-8be9-e31dafe9a1e9"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="InterfaceRealization" mc="Standard.InterfaceRealization" uid="d5d1a5ee-f47c-4bd0-b1c2-a084bec7f0be"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="a69a331e-ac45-47e4-9b11-3e4bb94e95f7"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

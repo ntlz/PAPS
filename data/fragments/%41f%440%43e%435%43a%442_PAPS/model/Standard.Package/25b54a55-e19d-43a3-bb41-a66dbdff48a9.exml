@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Design Realizations" version="4">
+  <OBJECT>
+    <ID name="Design Realizations" mc="Standard.Package" uid="25b54a55-e19d-43a3-bb41-a66dbdff48a9"/>
+    <PID name="Design Model" mc="Standard.Package" uid="e5523db2-7f3d-4b73-aa37-22ddd3916bd9"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Design Realizations]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Add restaurant realization" mc="Standard.Package" uid="892d87b9-5449-44e1-8b32-f8a99567a10c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

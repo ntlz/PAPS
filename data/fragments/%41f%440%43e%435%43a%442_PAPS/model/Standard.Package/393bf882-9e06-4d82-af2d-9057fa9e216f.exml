@@ -19,6 +19,7 @@
         <COMPID name="PaymentSystem" mc="Standard.Package" uid="477f90b6-e1df-411e-aec2-00bba47470a6"/>
         <COMPID name="control" mc="Standard.Package" uid="c75f4796-db20-4195-9f03-f66e4c0ced54"/>
         <COMPID name="interfaces" mc="Standard.Package" uid="0a4cd2bb-c8cf-4453-b68c-1f7f34cdb1ac"/>
+        <COMPID name="RestaurantManageSystem" mc="Standard.Package" uid="fdffd68a-93a3-438e-b8dd-8c83d3ed11cb"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="layer" mc="Infrastructure.Stereotype" uid="5af8d352-160e-43d0-a59f-731f2f5060ba"/>

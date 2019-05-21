@@ -94,6 +94,23 @@
           </DEPENDENCIES>
         </OBJECT>
       </COMP>
+      <COMP relation="Realized">
+        <OBJECT>
+          <ID name="InterfaceRealization" mc="Standard.InterfaceRealization" uid="1a82bfd5-5317-4d69-abcb-3377b9064272"/>
+          <ATTRIBUTES>
+            <ATT name="Name"><![CDATA[InterfaceRealization]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Implemented">
+              <ID name="IConfirmDelivery" mc="Standard.Interface" uid="e36205e6-8642-44a5-8409-66baef0a491b"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="ConfirmDeliverySystem Class diagram" mc="Standard.ClassDiagram" uid="dfc988bc-3c47-4163-90d5-f6b215e72fca"/>
+      </COMP>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

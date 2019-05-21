@@ -19,6 +19,7 @@
         <COMPID name="FavoriteController" mc="Standard.Class" uid="25c31d6a-fe06-49c7-bd9c-40ab4bac8765"/>
         <COMPID name="RestaurantController" mc="Standard.Class" uid="3ebfc5ee-e049-4fec-bf15-0e603f22726f"/>
         <COMPID name="MenuController" mc="Standard.Class" uid="b57cc4ac-ab61-4cb1-9a44-1abed9fe6e8c"/>
+        <COMPID name="SearchController" mc="Standard.Class" uid="fd5bcc96-61a6-4bfe-ae39-db205cc294c1"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="control" mc="Infrastructure.Stereotype" uid="a1ed15b2-ba85-4ff4-8259-84840c315401"/>

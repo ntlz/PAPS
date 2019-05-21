@@ -29,6 +29,10 @@
             <COMP relation="OwnedBehavior">
               <COMPID name="BasicFlow(1)" mc="Standard.Interaction" uid="4e7fe70e-e363-4efa-b433-c474c8d5f6c6"/>
               <COMPID name="BasicFlow(2)" mc="Standard.Interaction" uid="3b9a241c-3c10-42e3-9304-3f5aa10020df"/>
+              <COMPID name="AltFlow1-1" mc="Standard.Interaction" uid="5729e7aa-f955-4ac3-90d2-09cc1828132f"/>
+              <COMPID name="AltFlow1-2" mc="Standard.Interaction" uid="953537c7-e285-4eb6-b5f5-030e21b227ab"/>
+              <COMPID name="AltFlow12" mc="Standard.Interaction" uid="2e960303-f991-4acb-ab48-f889b7abc050"/>
+              <COMPID name="AltFlow16" mc="Standard.Interaction" uid="f7f8c45f-50dc-4c2e-b42e-67ac683d3c44"/>
             </COMP>
           </DEPENDENCIES>
         </OBJECT>

@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RestaurantService" version="4">
   <OBJECT>
-    <ID name="RestaurantService" mc="Standard.Class" uid="a5f85eba-1ef9-4784-b544-bddc54ca6085"/>
-    <PID name="Service" mc="Standard.Package" uid="2d0636dd-753e-4ac9-af29-92636db5b50e"/>
+    <ID name="RestaurantService" mc="Standard.Class" uid="5f0c1e35-0320-43fb-847b-7613b6674283"/>
+    <PID name="OrderService" mc="Standard.Class" uid="e274ca4d-7723-4519-826f-988b150edbd1"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
@@ -17,7 +17,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedOperation">
         <OBJECT>
-          <ID name="getAll" mc="Standard.Operation" uid="0f05caa8-99ef-492a-a863-318d1c62ed67"/>
+          <ID name="getAll" mc="Standard.Operation" uid="f7d2f7a8-f68a-4821-9e78-d9dd231e1181"/>
           <ATTRIBUTES>
             <ATT name="Concurrency">false</ATT>
             <ATT name="Final">false</ATT>
@@ -31,7 +31,7 @@
           <DEPENDENCIES>
             <COMP relation="Return">
               <OBJECT>
-                <ID name="p1" mc="Standard.Parameter" uid="dacf2915-2d06-4999-bd6e-2befeac7dfb9"/>
+                <ID name="p1" mc="Standard.Parameter" uid="7011f55d-37f9-4a9a-b960-6143581ca09d"/>
                 <ATTRIBUTES>
                   <ATT name="ParameterPassing">In</ATT>
                   <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
@@ -56,7 +56,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="saveToDB" mc="Standard.Operation" uid="e59065cd-9459-4181-be52-0248715bdf8e"/>
+          <ID name="saveToDB" mc="Standard.Operation" uid="e5571be3-c538-4232-8f09-67f3995738b5"/>
           <ATTRIBUTES>
             <ATT name="Concurrency">false</ATT>
             <ATT name="Final">false</ATT>
@@ -70,7 +70,7 @@
           <DEPENDENCIES>
             <COMP relation="IO">
               <OBJECT>
-                <ID name="" mc="Standard.Parameter" uid="d4ec6c3e-f9bc-4a3d-8bce-1882a16549a5"/>
+                <ID name="" mc="Standard.Parameter" uid="b97d2e1c-a54c-433c-b3ab-ff0418a534c8"/>
                 <ATTRIBUTES>
                   <ATT name="ParameterPassing">In</ATT>
                   <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
@@ -95,7 +95,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="getRestaurantByName" mc="Standard.Operation" uid="b97e32b8-e828-46fb-8c14-a3b113c10a08"/>
+          <ID name="getRestaurantByName" mc="Standard.Operation" uid="9d59536e-2360-4521-ab82-23c5a920b716"/>
           <ATTRIBUTES>
             <ATT name="Concurrency">false</ATT>
             <ATT name="Final">false</ATT>
@@ -109,7 +109,7 @@
           <DEPENDENCIES>
             <COMP relation="IO">
               <OBJECT>
-                <ID name="name" mc="Standard.Parameter" uid="429095bf-7150-4db8-8171-cb95a06633c1"/>
+                <ID name="name" mc="Standard.Parameter" uid="dce9f830-6614-44bd-884b-0e20aa07e15a"/>
                 <ATTRIBUTES>
                   <ATT name="ParameterPassing">In</ATT>
                   <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
@@ -133,7 +133,7 @@
             </COMP>
             <COMP relation="Return">
               <OBJECT>
-                <ID name="p2" mc="Standard.Parameter" uid="efd92691-b41b-4f2e-8cba-92342273f0ee"/>
+                <ID name="p2" mc="Standard.Parameter" uid="f845908a-5d94-4635-87ac-c56bd44aec94"/>
                 <ATTRIBUTES>
                   <ATT name="ParameterPassing">In</ATT>
                   <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
@@ -160,7 +160,7 @@
       </COMP>
       <COMP relation="OwnedEnd">
         <OBJECT>
-          <ID name="" mc="Standard.AssociationEnd" uid="143067f7-6e4a-4da1-8e05-9029a7bf27d7"/>
+          <ID name="" mc="Standard.AssociationEnd" uid="48f88f45-6f4c-4bc2-9e92-1bcd7d845e6b"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsAssociation</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -182,7 +182,7 @@
             </LINK>
             <COMP relation="Opposite">
               <OBJECT>
-                <ID name="" mc="Standard.AssociationEnd" uid="365bff70-49f0-4b42-8d8f-1795818377b2"/>
+                <ID name="" mc="Standard.AssociationEnd" uid="c64a0eb9-8f50-41e8-8931-0bd8a1ef749a"/>
                 <ATTRIBUTES>
                   <ATT name="Aggregation">KindIsAssociation</ATT>
                   <ATT name="IsChangeable">true</ATT>
@@ -200,11 +200,11 @@
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <COMP relation="Opposite">
-                    <COMPID name="" mc="Standard.AssociationEnd" uid="143067f7-6e4a-4da1-8e05-9029a7bf27d7"/>
+                    <COMPID name="" mc="Standard.AssociationEnd" uid="48f88f45-6f4c-4bc2-9e92-1bcd7d845e6b"/>
                   </COMP>
                   <COMP relation="Association">
                     <OBJECT>
-                      <ID name="" mc="Standard.Association" uid="e0af1e41-81ef-40ae-85d1-702d8a9138e6"/>
+                      <ID name="" mc="Standard.Association" uid="2c2e64c0-0922-42ae-abd2-0d223de936ae"/>
                       <ATTRIBUTES>
                         <ATT name="Name"></ATT>
                         <ATT name="status">1970354901745664</ATT>
@@ -216,7 +216,7 @@
               </OBJECT>
             </COMP>
             <COMP relation="Association">
-              <COMPID name="" mc="Standard.Association" uid="e0af1e41-81ef-40ae-85d1-702d8a9138e6"/>
+              <COMPID name="" mc="Standard.Association" uid="2c2e64c0-0922-42ae-abd2-0d223de936ae"/>
             </COMP>
           </DEPENDENCIES>
         </OBJECT>

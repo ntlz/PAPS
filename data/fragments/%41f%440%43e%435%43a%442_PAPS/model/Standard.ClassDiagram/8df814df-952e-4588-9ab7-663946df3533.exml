@@ -28,9 +28,6 @@
         <REFOBJ>
           <ID name="updateParams" mc="Standard.Operation" uid="9f002876-4fc1-4f89-8cb4-437e59845647"/>
         </REFOBJ>
-        <REFOBJ>
-          <ID name="Operation" mc="Standard.Operation" uid="89487c3b-6e81-4dd7-99b6-2e437a3989b2"/>
-        </REFOBJ>
       </LINK>
       <COMP relation="Descriptor">
         <OBJECT>

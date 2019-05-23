@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Add favorite dish" version="4">
+  <OBJECT>
+    <ID name="Add favorite dish" mc="Standard.Package" uid="e4584493-a34c-4761-9cdf-807b73d982df"/>
+    <PID name="Design Realizations" mc="Standard.Package" uid="25b54a55-e19d-43a3-bb41-a66dbdff48a9"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Add favorite dish]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <OBJECT>
+          <ID name="Add favorite dish" mc="Standard.Collaboration" uid="492c8902-b35a-42b6-b73c-2868645e576c"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Add favorite dish]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedBehavior">
+              <COMPID name="Interaction" mc="Standard.Interaction" uid="48b159f6-82df-4cae-95fb-312102251e72"/>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="VOPC" mc="Standard.ClassDiagram" uid="5f1492f3-eb6c-4c91-bc74-b659fffd3647"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
